@@ -1,18 +1,23 @@
 <xml>
   <dir>
-  <title>Search Trakt</title>
-  <trakt>search</trakt>
+   <title>Search Trakt</title>
+   <trakt>search</trakt>
   </dir>
   
   <dir>
-  <title>Search TMDB</title>
-  <tmdb>search</tmdb>
+   <title>Search TMDB</title>
+   <tmdb>search</tmdb>
   </dir>
   
   <dir>
-  <title>Search IMDB</title>
-  <imdburl>search</imdburl>
-</dir>
+   <title>Search IMDB</title>
+   <imdburl>search</imdburl>
+  </dir>
+  
+  <dir>
+   <title>Search</title>
+   <link>search</link>
+  </dir>
   
   <dir>
     <title>fucky</title>
