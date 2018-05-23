@@ -1,48 +1,15 @@
-Single Item
+<xml>
 
 <item>
 <title>Single Item Test</title>
 <link>https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8</link>
 <thumbnail>http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png</thumbnail>
 </item>
-
-Folder
-
-<dir>
-<name>Folder Test</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-Trakt
-
+  
 <dir>
 <title>Trakt Test</title>
 <trakt>https://api.trakt.tv/shows/trending</trakt>
 </dir>
-
-TMDB
-
-<dir>
-<title>TMDB Test</title>
-<tmdb></tmdb>
-</dir>
-
-IMDB
-
-<dir>
-<title>IMDB Test</title>
-<imdburl></imdburl>
-<thumbnail></thumbnail>
-</dir>
-
-Youtube
-
-<item>
-<title>Single Link Test</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
 
 <plugin>
 <title>Playlist Test</title>
@@ -56,8 +23,6 @@ Youtube
 <thumbnail></thumbnail>
 </plugin>
 
-Reddit
-
 <plugin>
 <title>Reddit Test</title>
 <link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=soccerstreams&amp;url=https%3a%2f%2fwww.reddit.com%2fr%2fsoccerstreams%2f.json%3f%26limit%3d50</link>
@@ -65,25 +30,3 @@ Reddit
 <fanart></fanart>
 <content></content>
 </plugin>
-
-F4M
-
-<plugin>
-<name>F4M Test</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=Add Your Link Here</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</plugin>
-
-
-Plexus
-<plugin>
-<title>Plexus Test</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://623687ccc7bf028bd61694053f54119425fab9c0(Acestream-Stream Name goes here)</sublink>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
