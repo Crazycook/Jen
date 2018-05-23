@@ -1,15 +1,5 @@
 <xml>
   <dir>
-    <title>Formats</title>
-    <link>file://formats/main.xml</link>
-  </dir>
-
-  <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
-  </dir>
- 
-  <dir>
     <title>fucky</title>
     <link>https://github.com/Crazycook/Jen/blob/master/testings.xml</link>
   </dir>
