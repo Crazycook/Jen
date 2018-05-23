@@ -1,5 +1,20 @@
 <xml>
   <dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
+  </dir>
+  
+  <dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+  </dir>
+  
+  <dir>
+  <title>Search IMDB</title>
+  <imdburl>search</imdburl>
+</dir>
+  
+  <dir>
     <title>fucky</title>
     <link>https://github.com/Crazycook/Jen/blob/master/testings.xml</link>
   </dir>
