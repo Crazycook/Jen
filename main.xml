@@ -8,9 +8,9 @@
     <title>Shared Lists</title>
     <link>file://shared lists/main.xml</link>
   </dir>
-  https://github.com/Crazycook/Jen/blob/master/testings.xml
+ 
   <dir>
-    <title>testings</title>
-    <link> https://github.com/Crazycook/Jen/blob/master/testings.xml</link>
+    <title>fucky</title>
+    <link>https://github.com/Crazycook/Jen/blob/master/testings.xml</link>
   </dir>
 </xml>
