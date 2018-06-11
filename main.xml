@@ -1,3 +1,4 @@
+<xml>
 <dir>
     <title>Concerts</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/concerts.xml</link>
@@ -6,4 +7,4 @@
     <title>kids boxsets</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/kids_boxset.xml</link>
 </dir>
-
+</xml>
