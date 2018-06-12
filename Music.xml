@@ -4,6 +4,10 @@
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/concerts.xml</link>
 </dir>
 <dir>
+    <title>Music TV</title>
+    <link>https://github.com/Crazycook/Jen/blob/Music.xml/Music%20TV.xml </link>
+</dir>    
+<dir>
     <title>Last FM</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/last%20fm.xml</link>
 </dir>
