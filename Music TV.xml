@@ -2,70 +2,59 @@
 <title>1HD</title>
 <link>http://80.250.191.10:1935/live/livestream3/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/2xw3x7O.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>ONE BY HD</title>
 <link>http://rtmp.one.by:1300</link>
 <thumbnail>https://i.imgur.com/70ngEZF.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>ONE BY 2HD</title>
 <link>http://rtmp.one.by:230</link>
 <thumbnail>https://i.imgur.com/70ngEZF.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>1Music</title>
 <link>http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail>http://live.moldova9.com/wp-content/uploads/1-music-channel1.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>4 Music</title>
 <link>http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8</link>
 <thumbnail>http://i.imgur.com/w22MZwa.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>24 Rock One</title>
 <link>http://194.116.83.15:80/24RockOne66</link>
 <thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <title>538 TV</title>
 <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8</link>
 <thumbnail>http://i.imgur.com/fDeSf9c.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>Afro Music</title>
-<link>http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-</link>
+<link>http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8</link>
 <thumbnail>http://i.imgur.com/RhTOUr5.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>aMazing</title>
 <link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2</link>
 <thumbnail>http://i.imgur.com/JBdeG3h.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>Anadolu TV</title>
 <link>rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp</link>
 <thumbnail>http://i.imgur.com/DexYlhY.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
