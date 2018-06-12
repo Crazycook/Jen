@@ -4,6 +4,10 @@
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
 </dir>
 <dir>
+    <title>Webcams</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
+</dir>        
+<dir>
     <title>kids boxsets</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/kids_boxset.xml</link>
 </dir>
@@ -14,17 +18,5 @@
 <dir>
     <title>Tubtub</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Tubtub.xml</link>
-</dir>
-<dir>
-    <title>Webcams</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
-</dir>    
-<dir>
-    <title>Tubtub</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Tubtub.xml</link>
-</dir>
-<dir>
-    <title>Music</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
-</dir>    
+</dir>  
 </xml>
