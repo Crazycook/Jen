@@ -1,0 +1,399 @@
+<item>
+<item>
+<title>ANIMAL CHANNEL</title>
+<link>http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8</link>
+<thumbnail>http://i.imgur.com/em7pWCI.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Animal Planet Live</title>
+<link>http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Anchorage School District6</title>
+<link>http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/U8kTXx3.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ATL 26</title>
+<link>rtmp://64.22.99.223/AtlantaGALIVE/AtlantaGALIVE.stream</link>
+<thumbnail>http://i.imgur.com/U8kTXx3.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Atlanta TV HD</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/ATLHD</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ATXN</title>
+<link>http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8</link>
+<thumbnail>http://www.bestbrandlogo.com/logos/48742.jpg/thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>360 North</title>
+<link>http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/1vCDjD0.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>AMG TV</title>
+<link>http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8</link>
+<thumbnail>http://i.imgur.com/OTMTilM.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KBYU BYU Eleven 11</title>
+<link>http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_2540_av-p.m3u8</link>
+<thumbnail>http://i.imgur.com/4v4f8Rc.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Classic Arts Showcase</title>
+<link>http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Florida Channel</title>
+<link>rtmp://webcasting.thefloridachannel.org/live/tvweb1</link>
+<thumbnail>http://i.imgur.com/DRHjFt5.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DoughyGuy Broadcast System</title>
+<link>http://65.60.19.42:8380/;stream.nsv</link>
+<thumbnail>http://i.imgur.com/v1FkYaZ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<titleNASA TV Public</title>
+<link>http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NASA TV Media</title>
+<link>https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8</link>
+<thumbnail>http://i.imgur.com/PWiwQLJ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>E/I</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
+<thumbnail>http://i.imgur.com/uHfkOFl.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Free Speech TV</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png</link>
+<thumbnail>http://i.imgur.com/uHfkOFl.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>UCTV</title>
+<link>http://ucsdtv-wowza.ucsd.edu:1935/live/live_1200/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Y2rKE0p.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>UCTV</title>
+<link>http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Y2rKE0p.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Boston City TV</title>
+<link>http://streaming.cityofboston.gov:1935/live/cable/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/bu54ad5.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Prime Time Ch 6</title>
+<link>http://streams.tvknob.com/tvloops/CH6/ch6.wsx</link>
+<thumbnail>http://i.imgur.com/6KKhy6J.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CoralVision - 5CTV - Coralville - IA Iowa</title>
+<link>rtmp://64.22.99.223/CoralvilleIALIVE/CoralvilleIALIVE.stream</link>
+<thumbnail>http://i.imgur.com/RJMXTL0.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DMTV - 7CTV - Des Moines - IA Iowa</title>
+<link>rtmp://cp256783.live.edgefcs.net/live/T03081@180367</link>
+<thumbnail>http://i.imgur.com/e542x2H.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>City of Dubuque - 8CTV - Dubuque - IA Iowa</title>
+<link>rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-5/cityofdubque/mp4:G0526_001</link>
+<thumbnail>http://i.imgur.com/frmB1ek.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>City of Miami TV</title>
+<link>http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8</link>
+<thumbnail>http://www.aero-news.net/images/content/general/2016/miami-seal-0616a.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>District of Columbia Network</title>
+<link>http://video.oct.dc.gov/out/u/DCN.m3u8</link>
+<thumbnail>https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EBCTV Community - 9CTV - East Bridgewater - MA Massachusetts</title>
+<link>rtmp://cp45648.live.edgefcs.net/live/T01812@50342</link>
+<thumbnail>http://i.imgur.com/rJ3txeg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Grassroots Community Network</title>
+<link>http://reflect.live.grassroots.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8</link>
+<thumbnail>http://i1.wp.com/aspenroaringforkwellness.com/wp-content/uploads/2016/06/grassroots.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Key TV</title>
+<link>https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg</link>
+<thumbnail>https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Naples TV</title>
+<link>http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8</link>
+<thumbnail>http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nevada County TV</title>
+<link>http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-3/nevco/mp4:G0644_001/chunklist_w1334900630.m3u8</link>
+<thumbnail>http://cnlsierra.org/wp-content/uploads/2014/11/NCTV-2015.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Orange TV</title>
+<link>http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8</link>
+<thumbnail>http://www.wrcftv.com/index_htm_files/1747.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Seminole TV</title>
+<link>http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8</link>
+<thumbnail>http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>St. Petersburg TV</title>
+<link>http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8</link>
+<thumbnail>http://www.stpete.org/logo/images/city_logo_color.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>InfoWars</title>
+<link>http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WCCA TV13 - 13CTV - Worcester - MA Massachusetts</title>
+<link>rtmp://cp80255.live.edgefcs.net/live/T01011@15322</link>
+<thumbnail>http://i.imgur.com/APZautc.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal America</title>
+<link>http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/jqEGGTA.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SafeTV</title>
+<link>http://live.ipointcable.com/safetv/myStream.sdp/playlist.m3u8</link>
+<thumbnail>https://image.roku.com/channels/images/742438d2db584d6b93a617eacf0ad1f8-hd.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Songwriters Series</title>
+<link>http://streams.tvknob.com/tvloops/CH3/ch3.wsx</link>
+<thumbnail>http://i.imgur.com/fgWwFdX.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>PG's County Public Schools</title>
+<link>http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Blaze</title>
+<link>https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8</link>
+<thumbnail>https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TWiT Live</title>
+<link>http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TWiT.TV</title>
+<link>http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8</link>
+<thumbnail>https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TWiT.TV</title>
+<link>http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/4rleoHK.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Marti</title>
+<link>rtmp://cp90613.live.edgefcs.net/live/ocb_mpls_tvmc1@383655</link>
+<thumbnail>http://i.imgur.com/2vZQcmi.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WPCT BeachTV 46 - 47 DT - Panama City Bch - FL Florida</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/BTVHD</link>
+<thumbnail>http://i.imgur.com/hHMHDUW.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WPCT BeachTV 46 - 47 DT - Panama City Bch - FL Florida</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/DTVHD</link>
+<thumbnail>http://boris.16mb.com/tv/us/beach_tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>W33BY-D TV33 - Detroit - MI Michigan</title>
+<link>http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/C39szxk.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MCN6 Metro Cable - 6CTV - Minneapolis - MN Minnesota</title>
+<link>http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8</link>
+<thumbnail>http://i.imgur.com/SOE1EKU.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Minneapolis 79 - 79CTV - Minneapolis - MN Minnesota</title>
+<link>rtmp://wowza1.qc.implex.net/cityofminneapolis/live1</link>
+<thumbnail>http://i.imgur.com/GJL5FDe.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Teveo Miami Spanish</title>
+<link>http://q.gs/9830047/tveomiamitodokodim3u8</link>
+<thumbnail>http://i.imgur.com/1Tlnec7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WCTV Washoe County - 217CTV - Reno - NV Nevada</title>
+<link>rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-6/washoe-nv/G0511_001</link>
+<thumbnail>http://i.imgur.com/fA0G0NZ.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WCTV Washoe County - 217CTV - Reno - NV Nevada</title>
+<link>rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-6/washoe-nv/G0511_001</link>
+<thumbnail>http://i.imgur.com/fA0G0NZ.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VoA</title>
+<link>https://www.bbgdirect.com/Content/images/VOA-logo.png</link>
+<thumbnail>http://i.imgur.com/ZH75apu.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Yes TV</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8</link>
+<thumbnail>https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>HD Media 3D</title>
+<link>http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/TQhwVnq.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>US:MILITARY</title>
+<link>http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/701842160857935873/e4lWJVOD.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>US:LUXURY YACHTS</title>
+<link>http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8</link>
+<thumbnail>http://i.imgur.com/0g05u4q.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

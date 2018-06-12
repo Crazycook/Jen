@@ -1,0 +1,244 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>Albania TV</name>
+<thumbnail>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Albania.txt</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/24-7.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Austria TV</name>
+<thumbnail>http://i.imgur.com/WGoa08s.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Austria.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Belarus Tv</name>
+<thumbnail>http://i.imgur.com/gvthXl9.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Belarus%20TV.txt</externallink>
+<fanart>http://i.imgur.com/gvthXl9.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Bulgaria Tv</name>
+<thumbnail>http://imgur.com/pufKOy4</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Bulgaria.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Boznia Tv</name>
+<thumbnail>http://i.imgur.com/kbC4gpi.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Bosnia.txt</externallink>
+<fanart>http://i.imgur.com/kbC4gpi.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Cyprus TV</name>
+<thumbnail>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Cyprus.txt</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Cyprus.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Czech Republic TV</name>
+<thumbnail>http://imgur.com/dtzGsxY</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Czech%20Republic.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Denmark TV</name>
+<thumbnail>http://imgur.com/WD4cCOQ</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Denmark.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>France TV</name>
+<thumbnail>http://imgur.com/9omxBrG</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/France.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Germany</name>
+<thumbnail>https://i.imgur.com/s4HBhN5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Germany.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Greece TV</name>
+<thumbnail>http://imgur.com/0yaOxGE</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Greece.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Hungary TV</name>
+<thumbnail>http://imgur.com/po4TXzS</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Hungary.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Iceland TV</name>
+<thumbnail>http://i.imgur.com/MpCpcEv.jpg/thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Iceland.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Italy TV</name>
+<thumbnail>http://imgur.com/7pAiQG4</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Italy.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Kosovo TV</name>
+<thumbnail>http://imgur.com/AhjYyhy</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Kosovo.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Latvia TV</name>
+<thumbnail>http://i.imgur.com/9GskSoQ.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Latvia.txt</externallink>
+<fanarthttp://i.imgur.com/9GskSoQ.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Macedonia TV</name>
+<thumbnail>http://imgur.com/OJJwJuU</thumbnail>
+<externallink>https://github.com/Crazycook/Working/blob/Europe-TV/Macedonia.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Malta TV</name>
+<thumbnail>http://imgur.com/eiPqPC7</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Malta.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Moldova TV</name>
+<thumbnail>http://imgur.com/paNypyc</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Moldova.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Netherlands TV</name>
+<thumbnail>http://i.imgur.com/xSicatN.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Netherlands.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Poland TV</name>
+<thumbnail>http://i.imgur.com/Fqfd44b.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Poland.txt</externallink>
+<fanart>http://i.imgur.com/Fqfd44b.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Portugal TV</name>
+<thumbnail>http://imgur.com/QmTijSu</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Portugal.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Romania TV</name>
+<thumbnail>http://imgur.com/aYZqDcF</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Romania.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Russia TV</name>
+<thumbnail>http://imgur.com/mlLiepV</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Russia.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Serbia TV</name>
+<thumbnail>http://imgur.com/H2EuU3q</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Serbia.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Slovakia TV</name>
+<thumbnail>http://imgur.com/xKyBlKq</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Slovakia.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Spain TV</name>
+<thumbnail>http://imgur.com/Sajp1ub</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Spain.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Sweden TV</name>
+<thumbnail>http://i.imgur.com/Ye1suhw.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Sweden.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Switzerland TV</name>
+<thumbnail>http://imgur.com/yjabNZG</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Switzerland.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>UK TV</name>
+<thumbnail>http://imgur.com/SvoM7m8</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/UK.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+</channels>

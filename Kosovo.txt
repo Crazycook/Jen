@@ -1,0 +1,7 @@
+<item>
+<item>
+<title>RROKUM TV</title>
+<link>rtmp://82.114.65.202/live//rrokumtv</link>
+<thumbnail>http://imgur.com/o400w6D</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

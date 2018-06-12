@@ -1,0 +1,251 @@
+<item>
+<item>
+<title>9 Vollna TV</title>
+<link>rtmp://176.9.127.102/live/myStream_1</link>
+<thumbnail>http://imgur.com/sIdOTl1</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ATV</title>
+<linkhttp://178.162.205.72:8081/live_hd/atv/live_hd/atv_hi/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Auto 24</title>
+<link>http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8</link>
+<thumbnail>http://www.kt.trkpuls.ru/home/images/b_img25.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ANTIMAIDAN.TV.DNR</title>
+<link>http://hls.goodgame.ru/hls/6147.m3u8?version=3?ANTIMAIDAN.TV.DNR </link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Barbariki TV</title>
+<link>rtmp://planetaonline.cdnvideo.ru/rr/channel_6</link>
+<thumbnail>http://imgur.com/YqbYg7o</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bardejov</title>
+<link>rtmp://s1.media-planet.sk:80/live/bardejov1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>bnptv</title>
+<link>mms://bnptv.info:10801/</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Diyalog TV</title>
+<link>http://yayin3.canlitv.com:1935/live/diyalogtv/HasBahCa.m3u8/</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Game Show Studio</title>
+<link>http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8/</link>
+<thumbnail>http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>HardLife TV</title>
+<link>http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8/</link>
+<thumbnail>https://photouploads.com/images/f807ad.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Meteo TV</title>
+<link>http://rtmp://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8?token=rtmp </link>
+<thumbnail>http://imgur.com/FFTKW8e</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MGM HD</title>
+<link>http://185.39.194.20:22218/play/1820104</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MI TV</title>
+<link>http://63.237.48.28/ios/MI_TV/MI_TV.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MiniMax</title>
+<link>http://108.168.175.182:5000/live/278/278.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Life News</title>
+<link>http://tv.life.ru/lifetv/720p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/fWLclux.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nova Cinema</title>
+<link>http://174.36.220.217:5000/live/120/120.m3u8</link>
+<thumbnail>http://i.imgur.com/fWLclux.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Novorossia TV</title>
+<link>http://rlu.ru/10fAM?NOVOROSSIA.TV.DNR </link>
+<thumbnail>http://imgur.com/KmzSb5l</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Pik TV</title>
+<link>rtmp://fms.pik-tv.com/live/piktv2pik2tv</link>
+<thumbnail>http://imgur.com/AvWI8uj</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Publika</title>
+<link>http://livebeta.publika.md/LIVE/P/6810.m3u8</link>
+<thumbnail>http://imgur.com/AvWI8uj</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RBC</title>
+<link>http://online.video.rbc.ru/online/rbctv_480p/index.m3u8</link>
+<thumbnail>http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RT Documentary (English)</title>
+<link>http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Soyuz</title>
+<link>http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8</link>
+<thumbnail>http://tv-soyuz.ru/static/images/new_image_placeholder.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TS-TV.RU</title>
+<link>mms://213.141.145.170/ts_tv11</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV gauranga</title>
+<link>mms://195.62.63.238/tv_gauranga
+</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Animation</title>
+<link>mms://213.141.145.170/ts_tv10</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Art</title>
+<link>mms://213.141.145.170/ts_tv8
+</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Documentary</title>
+<link>mms://213.141.145.170/ts_tv6</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Health</title>
+<link>mms://213.141.145.170/ts_tv5
+</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Music</title>
+<link>mms://213.141.145.170/ts_tv9</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Science</title>
+<link>mms://213.141.145.170/ts_tv4</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Shows
+</title>
+<link>mms://213.141.145.170/ts_tv3</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Theme</title>
+<link>mms://213.141.145.170/ts_tv7</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Under Sea</title>
+<link>http://wse.planeta-online.tv:1935/live/channel_130/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>notsure</title>
+<link>rtmp://77.243.11.114/live/live?mir</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>World Fashion</title>
+<link>http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8</link>
+<thumbnail>http://www.parsatv.com/index_files/channels/worldfashion.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

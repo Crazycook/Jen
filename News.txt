@@ -1,0 +1,723 @@
+﻿<item>
+<title>USA News 12 Long Island</title>
+<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000</link>
+<thumbnail>https://i.imgur.com/v33gaCk.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>USA News Bronx</title>
+<link>rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000</link>
+<thumbnail>https://i.imgur.com/GGXGFIU.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>USA News Brooklyn</title>
+<link>rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000</link>
+<thumbnail>https://i.imgur.com/EnlEdG5.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Traffic & Weather NY - 12CTV - Brooklyn - NY New York</title>
+<link>rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000</link>
+<thumbnail>https://i.imgur.com/EnlEdG5.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>USA News Connecticut</title>
+<link>rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000</link>
+<thumbnail>https://i.imgur.com/FG7pdam.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>USA News Hudson Valley</title>
+<link>rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000</link>
+<thumbnail>https://i.imgur.com/vZc2yOI.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>USA News Long Island</title>
+<link>rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000</link>
+<thumbnail>https://i.imgur.com/PlASoAM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Traffic & Weather LI - 12CTV - Woodbury - NY New York</title>
+<link>rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000</link>
+<thumbnail>https://i.imgur.com/v33gaCk.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>USA News New Jersey</title>
+<link>rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000</link>
+<thumbnail>https://i.imgur.com/mg499KA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>USA News Westchester</title>
+<link>rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000</link>
+<thumbnail>https://i.imgur.com/d9fE1HG.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Traffic & Weather NJ - 12CTV - Edison - NJ New Jersey</title>
+<link>rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000</link>
+<thumbnail>https://i.imgur.com/mg499KA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Weather Nation</title>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+<thumbnail>https://i.imgur.com/j12iuf8.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Weather Network (live Feed)</title>
+<link>https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master_Layer4.m3u8</link>
+<thumbnail>http://i.imgur.com/AhUCu4Y.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Weather Channel</title>
+<link>http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8</link>
+<thumbnail>http://i.imgur.com/H00wiqw.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Earth TV</title>
+<link>http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8?5842ba6cbbf0479c3de0a48f</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Arirang</title>
+<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+<thumbnail>http://www.isv.net/logos/arirangtv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ABC News 1</title>
+<link>http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8</link>
+<thumbnail>https://i.imgur.com/9EO0Ycz.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ABC News 2 </title>
+<link>http://abclive.abcnews.com/i/abc_live2@136328/index_2500_av-b.m3u8</link>
+<thumbnail>https://i.imgur.com/9EO0Ycz.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ABC News 3 </title>
+<link>http://abclive.abcnews.com/i/abc_live3@136329/index_2500_av-b.m3u8</link>
+<thumbnail>https://i.imgur.com/9EO0Ycz.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ABC News 4</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>http://i.imgur.com/Bn5H9LA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ABC News 4</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8</link>
+<thumbnail>http://i.imgur.com/Bn5H9LA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC World News</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/3130.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>Channel NewsAsia</title>
+<link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail>http://singapore.mfa.gov.ua/mediafiles/sites/singapore/images/articles/tmbs/CNA_logo-tmb-270x180.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/TjHh4PW.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBSN HD (1080p)</title>
+<link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
+<thumbnail>https://i.imgur.com/D16Qfpt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBSN HD (1080p)</title>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/D16Qfpt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>CBSN HD (720p)</title>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/D16Qfpt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS News /title>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/D16Qfpt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8</link>
+<thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NBC News Live</title>
+<link>http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_796_av-b.m3u8?</link>
+<thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fox News</title>
+<link>http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fox News Radio</title>
+<link>http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8</link>
+<thumbnail>http://i.imgur.com/Bvaoiu7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8</link>
+<thumbnail>http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Newsmax TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8</link>
+<thumbnail>http://channels.roku.com/images/0f3d03b0dabd4b05a9597835ac79894d-hd.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WGN News Chicago</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8</link>
+<thumbnail>https://i.imgur.com/a8pwcfZ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WGN News Chicago</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?#</link>
+<thumbnail>https://i.imgur.com/a8pwcfZ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>C-SPAN</title>
+<link>http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://i.imgur.com/vOFFWI0.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>C-SPAN 2</title>
+<link>http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://fiber.storage.googleapis.com/channels/logos/cspan2.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>C-SPAN 3</title>
+<link>http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://i.imgur.com/q1vanyE.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Biz TV</title>
+<link>https://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/manifest.m3u8</link>
+<thumbnail>https://i.imgur.com/q1vanyE.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg Asia</title>
+<link>https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+#EXTINF:0, tvg-logo="" group-title="",
+
+<item>
+<title>Bloomberg Australia</title>
+<link>https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/aus_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg Europe</title>
+<link>https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg US</title>
+<link>https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>http://79.172.241.74:8081/hls/bbcnews.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5998.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>http://86.166.86.159:9981/stream/channelid/73068048/playlist.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5998.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5998.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC Parliament</title>
+<link>http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=</link>
+<thumbnail>http://channelpear.com/images/media/12344.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CTV News Live Events 1</title>
+<link>http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CTV News Live Events 2</title>
+<link>=</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CTV News Live Events 3</title>
+<link>http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CTV News Live Events 4</title>
+<link>http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky News</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+<thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>LifeNews HD Russia</title>
+<link>http://tv.life.ru/lifetv/720p/index.m3u8</link>
+<thumbnail>https://i.imgur.com/LGtakIq.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NHK World</title>
+<link>https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8</link>
+<thumbnail>https://i.imgur.com/anAwuxu.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NHK World</title>
+<link>http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8</link>
+<thumbnail>https://i.imgur.com/anAwuxu.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Infowars</title>
+<link>http://infowarslive-lh.akamaihd.net:80/i/infowarslivestream_1@353459/master.m3u8</link>
+<thumbnail>https://i.imgur.com/5Tq9ZSK.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TWiT</title>
+<link>http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/anAwuxu.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>India TV</title>
+<link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8</link>
+<thumbnail>https://i.imgur.com/YWJi2IB.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>PAX TV HD korea</title>
+<link>rtmp://124.139.232.61:1935/live/livestream</link>
+<thumbnail>https://i.imgur.com/lNk6oKA.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Press TV</title>
+<link>http://178.32.255.199:1935/live/ptven/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT WORLD Turkey</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8</link>
+<thumbnail>https://i.imgur.com/glucsRb.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTE News Now</title>
+<link>http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/vJF7Zlu.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Russia Today USA</title>
+<link>http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index1600.m3u8</link>
+<thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Russia Today</title>
+<link>http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8</link>
+<thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Russia Today</title>
+<link>http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8</link>
+<thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RT Documentary</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/NuqR2K6.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg TV Europe</title>
+<link>http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8</link>
+<thumbnail>https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Channel News Asia</title>
+<link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail>http://i.imgur.com/bZsResP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Channel News Asia</title>
+<link>http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/index_3_av-p.m3u8</link>
+<thumbnail>http://i.imgur.com/bZsResP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/bZsResP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Deutsche Welle</title>
+<link>http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8</link>
+<thumbnail>http://www.pumamedia.com.au/DW_English.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deutsche Welle UK</title>
+<link>http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://i.imgur.com/QTF8jn4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deutsche Welle ES</title>
+<link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://i.imgur.com/QTF8jn4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deutsche Welle AR</title>
+<link>http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://i.imgur.com/QTF8jn4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deutsche Welle Asia</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8</link>
+<thumbnail>https://i.imgur.com/QTF8jn4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deutsche Welle Latinoamérica</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>earthTV</title>
+<link>http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-7Xjq8QzxxS0/WTEG5Ex_DII/AAAAAAAAAws/htyaTT4c7JcaDLXUFVrpOulxk2dyym46QCLcB/s1600/earthtv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NDTV </title>
+<link>http://bglive-a.bitgravity.com/ndtv/247lo/live/native</link>
+<thumbnail>https://i.imgur.com/bWMHl6N.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>FRANCE 24 (Eng)</title>
+<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8</link>
+<thumbnail>https://i.imgur.com/z73ais7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>FRANCE 24 (FRA)</title>
+<link>http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8</link>
+<thumbnail>https://i.imgur.com/98Yl4Qz.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>FRANCE 24 (FRA)</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
+<thumbnail>https://i.imgur.com/98Yl4Qz.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EuroNews</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp</link>
+<thumbnail>https://i.imgur.com/DO3MxlE.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EURONEWS (eng)</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
+<thumbnail>https://i.imgur.com/DO3MxlE.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EURONEWS  (fra)</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp</link>
+<thumbnail>https://i.imgur.com/qcc8OYF.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EURONEWS (esp)</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/19-live.m3u8</link>
+<thumbnail>https://i.imgur.com/i4TMiJS.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Euronews (PT)</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8</link>
+<thumbnail>https://i.imgur.com/5atZ7Lk.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Euronews De</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8</link>
+<thumbnail>https://i.imgur.com/JnQfGnn.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EURONEWS Geek</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp</link>
+<thumbnail>https://i.imgur.com/EpTqvyj.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera English</title>
+<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera English</title>
+<link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera English</title>
+<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera English</title>
+<link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera Arabic</title>
+<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SAMAA News (pak)</title>
+<link>http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/KEu4rAw.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NewsX(IN)</title>
+<link>http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/xbJ2Rab.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Palestine Today</title>
+<link>http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8</link>
+<thumbnail>https://i.imgur.com/HufxC4M.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Press TV</title>
+<link>http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/UjIHTlp.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai News Italy</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://i.imgur.com/TBd8nlT.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Russia Today</title>
+<link>http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8</link>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky TG 24 (ITA)</title>
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Kg5E2Rh.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT World</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8</link>
+<thumbnail>http://www.televizyondizisi.com/wp-content/uploads/2015/10/TRTWORLDHABER.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
