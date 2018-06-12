@@ -1,7 +1,7 @@
 <xml>
 <dir>
-    <title>Concerts</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/concerts.xml</link>
+    <title>Music</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
 </dir>
 <dir>
     <title>kids boxsets</title>
@@ -11,13 +11,20 @@
     <title>trakt lists</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/trakt%20lists.xml</link>
 </dir> 
-   
- <dir>
-    <title>24-7 tv</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/24-7.xml</link>
-</dir> 
 <dir>
-    <title>Africa tv</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Africa%20tv.xml</link>
+    <title>Tubtub</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Tubtub.xml</link>
+</dir>
+<dir>
+    <title>Webcams</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
+</dir>    
+<dir>
+    <title>Tubtub</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Tubtub.xml</link>
+</dir>
+<dir>
+    <title>Music</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
 </dir>    
 </xml>
