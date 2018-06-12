@@ -11,7 +11,7 @@
 <dir>
 <name>24-7</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/24-7.txt</link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/24-7.xml</link>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </dir>
@@ -19,14 +19,14 @@
 <dir>
 <name>News</name>
 <thumbnail>https://i.imgur.com/WjBIqzY.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/News.txt</link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/News%20tv.xml</link>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </dir>
 
 <dir>
 <name>USA Local News</name>
-<thumbnail>http://i.imgur.com/Hu33rC5.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/USA%20Local%20News%20tv.xml</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/USA%20Local%20News.txt</link>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
@@ -35,7 +35,7 @@
 <dir>
 <name>Sports TV</name>
 <thumbnail>https://i.imgur.com/THXBQh7.png</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Working/Sports-TV/home.txt</link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Sports%20TV.xml</link>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </dir>
@@ -43,7 +43,7 @@
 <dir>
 <name>USA TV</name>
 <thumbnail>http://i.imgur.com/AFF08tA.png</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/USA%20TV.txt</link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/USA%20TV.xml</link>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </dir>
@@ -51,7 +51,7 @@
 <dir>
 <name>Canada TV</name>
 <thumbnail>http://i.imgur.com/vRAmfhW.png</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Canada%20TV.txt</link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Canada%20TV.xml</link>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </dir>
@@ -99,15 +99,15 @@
 <dir>
 <name>Shopping TV</name>
 <thumbnail>https://i.imgur.com/KWBXu7t.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Shopping.txt</link>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Shopping%20tv.xml</link>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>https://raw.githubusercontent.com/Crazy
 <info>Shopping Networks</info>
 </dir>
 
 <dir>
 <name>Religious TV</name>
 <thumbnail>http://i.imgur.com/1fM9yWp.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Religious.txt</link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Religious%20tv.xml</link>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </dir>
