@@ -1,0 +1,15 @@
+<item>
+<item>
+<title>CBC TV Channel 8</title>
+<link>rtmp://184.154.57.230/cbcvideo/cbcstream</link>
+<thumbnail>http://i.imgur.com/IJi5XVT.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CineStream TV</title>
+<link>http://68.71.42.179/live/livestream1/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/84fnt49.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
