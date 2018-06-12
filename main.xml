@@ -10,5 +10,10 @@
  <dir>
     <title>trakt lists</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/trakt%20lists.xml</link>
-</dir>   
+</dir> 
+   
+ <dir>
+    <title>DiRTYBURGER</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Working/master/home.txt </link>
+</dir>    
 </xml>
