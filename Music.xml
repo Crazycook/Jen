@@ -1,0 +1,10 @@
+<xml>
+<dir>
+    <title>Concerts</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/concerts.xml</link>
+</dir>
+<dir>
+    <title>Last FM</title>
+    <link>https://github.com/Crazycook/Jen/blob/Music.xml/last%20fm.xml</link>
+</dir>
+</xml>
