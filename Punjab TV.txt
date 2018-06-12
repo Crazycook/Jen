@@ -1,0 +1,27 @@
+<item>
+<item>
+<title>Akaal Channel</title>
+<link>http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8</link>
+<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>A-One</title>
+<link>http://live.wmncdn.net/aonechannel/9ebf07878203332944aeabd987cb5d63.sdp/playlist.m3u8</link>
+<thumbnail>http://imgur.com/NdEK9QK</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>TV84</title>
+<link>http://soundview.viddillions.com/soundviewlive/smil:stream0001.smil/playlist.m3u8</link>
+<thumbnail>http://imgur.com/eXW3u43</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sanjh tv</title>
+<link>rtmp://live.wmncdn.net:1935/sanjhikhabar/a155af9adbb4b0c47fc9d90433555ca5.sdp</link>
+<thumbnail>http://imgur.com/FKvNwMJ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

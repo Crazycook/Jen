@@ -1,0 +1,14 @@
+<item>
+<item>
+<title>IBN LokMat</title>
+<link>http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8</link>
+<thumbnail>http://imgur.com/ZwNC5Eb</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Star Maza</title>
+<link>http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8</link>
+<thumbnail>http://imgur.com/TqvF9iC</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
