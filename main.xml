@@ -1,5 +1,12 @@
 <xml>
 <dir>
+    <title>cCloud.atom</title>
+    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+    <m3u>http://ccld.io/atom.m3u</m3u>
+    <fanart>https://imgur.com/xI934y5</fanart>
+    <info>cCloud.atom m3u list</info>
+    </dir>    
+<dir>
     <title>Music</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
 </dir>
