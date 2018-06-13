@@ -1,5 +1,14 @@
 <xml>
 <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+ </dir>
+
+ <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+ </dir>    
+<dir>
     <title>cCloud.atom</title>
     <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
     <m3u>http://ccld.io/atom.m3u</m3u>
