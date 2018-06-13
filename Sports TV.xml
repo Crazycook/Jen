@@ -281,14 +281,7 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>Olympic Channel</title>
-<linkhttp://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8</link>
-<thumbnail>http://i.imgur.com/MzaONes.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Olympic Channel</title>
-<link>http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8</link>
+<link>https://live.olympicchannel.com/ocs/channel01b/master.m3u8</link>
 <thumbnail>http://i.imgur.com/MzaONes.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -308,13 +301,6 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 </item>
 
 <item>
-<title>PAC-12 Net. (Arizona)</title>
-<link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
-<thumbnail>https://i.imgur.com/xNHDDG1.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>PAC-12 Net. (Bay Area)</title>
 <link>http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8</link>
 <thumbnail>https://i.imgur.com/0nZVP7Y.png</thumbnail>
@@ -324,13 +310,6 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <item>
 <title>PAC-12 Net. (Los Angeles)</title>
 <link>http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8</link> 
-<thumbnail>https://i.imgur.com/5iPdi3A.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>PAC-12 Net. (Los Angeles)</title>
-<link>http://xrxs.net/video/live-p12losa-2328.m3u8</link> 
 <thumbnail>https://i.imgur.com/5iPdi3A.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -349,14 +328,7 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<item>
-<title>PAC-12 Net. (Oregon)</title>
-<link>http://xrxs.net/video/live-p12oreg-4728.m3u8?</link>
-<thumbnail>https://i.imgur.com/wAGi4NP.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
+ <item>
 <title>PAC-12 Net. (Washington)</title>
 <link>http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master</link>
 <thumbnail>https://i.imgur.com/WIBvu9n.png</thumbnail>
@@ -378,8 +350,9 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>Red Bull TV</title>
-<link>https://elementaldelta2.redbull.tv/98_5.m3u8</link>
-<thumbnail></thumbnail>
+<link>https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+</link>
+<thumbnail>https://i.imgur.com/A4GMBN6.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -405,13 +378,6 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 </item>
 
 <item>
-<title>Redbull TV</title>
-<link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/3xy5NvV.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>Rete Sport 8 </title>
 <link>http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8</link>
 <thumbnail>https://i.imgur.com/ALjwcfl.jpg</thumbnail>
@@ -420,7 +386,7 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>Rev´N Television</title>
-<link>http://pub2.mpl.miisolutions.net/pub2-live-54/REVN_all.smil/playlist.m3u8</link>
+<link>http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8</link>
 <thumbnail>https://i.imgur.com/OE4jjum.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
