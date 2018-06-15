@@ -14,6 +14,13 @@
 </item>
 
 <item>
+<title>Animal Planet Live</title>
+<link>https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8</link>
+<thumbnail>http://web-cdn.blivenyc.com/generic/rcu.app-store-icon.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Anchorage School District6</title>
 <link>http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8</link>
 <thumbnail>http://i.imgur.com/U8kTXx3.png</thumbnail>
@@ -29,12 +36,12 @@
 
 <item>
 <title>Atlanta TV HD</title>
-<link>rtmp://media4.tripsmarter.com/LiveTV/ATLHD</link>
-<thumbnail></thumbnail>
+<link>http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8 </link>
+<thumbnail>https://i.imgur.com/vV08W1S.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<item>
+ <item>
 <title>ATXN</title>
 <link>http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8</link>
 <thumbnail>http://www.bestbrandlogo.com/logos/48742.jpg/thumbnail>
@@ -53,6 +60,42 @@
 <thumbnail>http://i.imgur.com/OTMTilM.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+  
+<title>Beach TV - 30A</title>
+<link>http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/YajfXJ1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Beach TV - Panama City</title>
+<link>http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8</link>
+<thumbnail>https://i.imgur.com/YajfXJ1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Beach TV - Pawleys Island</title>
+<link>http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/YajfXJ1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Bowie TV</title>
+<link>http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/nSMaujc.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Buffalo TV</title>
+<link>http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/f5ZtDhj.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>BYUtv</title>
+<link>https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8 </link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
 <title>KBYU BYU Eleven 11</title>
@@ -69,6 +112,12 @@
 </item>
 
 <item>
+<title>Celebrity Page TV</title>
+<link>https://vcncelebritypage.teleosmedia.com/stream/celebritypage/livefeed1/playlist.m3u8</link>
+<thumbnail>http://ww1.prweb.com/prfiles/2017/04/27/14284950/gI_62576_CP_Logo_YellowBlue.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
 <title>The Florida Channel</title>
 <link>rtmp://webcasting.thefloridachannel.org/live/tvweb1</link>
 <thumbnail>http://i.imgur.com/DRHjFt5.png</thumbnail>
@@ -81,7 +130,6 @@
 <thumbnail>http://i.imgur.com/v1FkYaZ.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
 
 <item>
 <titleNASA TV Public</title>
