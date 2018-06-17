@@ -7,7 +7,18 @@
  <dir>
     <title>Search TMDB</title>
     <tmdb>search</tmdb>
- </dir>    
+ </dir>   
+    
+ <dir>
+    <title>Search Artist</title>
+    <lastfm>search/artist</lastfm>
+ </dir>
+
+ <dir>
+    <title>Search Album</title>
+    <lastfm>search/album</lastfm>
+  </dir>
+    
 <dir>
     <title>cCloud.atom</title>
     <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
