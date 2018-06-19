@@ -110,6 +110,76 @@
 </item>
 
 <item>
+<title>ABC News Digital</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 2</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 3</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 3</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 4</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 5</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 6</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 7</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 8</title>
+<link>https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC News Digital 9</title>
+<link>https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8</link>
+<thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
 <title>ABC News 1</title>
 <link>http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8</link>
 <thumbnail>https://i.imgur.com/9EO0Ycz.jpg</thumbnail>
@@ -231,6 +301,48 @@
 </item> 
  
 <item>
+<title>CNN Debate</title>
+<link>http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/master.m3u8</link>
+<thumbnail>https://i.imgur.com/ttwq6cz.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>Fox News Convention Coverage</title>
+<link>https://fnurtmp-f.akamaihd.net/i/RNCPOOL_1@344188/master.m3u8</link>
+<thumbnail>https://i.imgur.com/h9r6OF5.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>Fox News Digital Hangout</title>
+<link>https://fnurtmp-f.akamaihd.net/i/DIGHANGOUT_1@344188/master.m3u8</link>
+<thumbnail>https://i.imgur.com/4iTe5PZ.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>NBC News Live Event</title>
+<link>https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8</link>
+<thumbnail>https://i.imgur.com/aGZHtlC.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>Shepard Smith Breaking News</title>
+<link>http://fnurtmp-f.akamaihd.net/i/SHEPSMITH_1@459383/master.m3u8</link>
+<thumbnail>https://i.imgur.com/GmXWiny.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>WSJ Live</title>
+<link>http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8</link>
+<thumbnail>https://i.imgur.com/4qQmTbb.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+ 
+<item>
 <title>Fox News Radio</title>
 <link>http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8</link>
 <thumbnail>http://i.imgur.com/Bvaoiu7.jpg</thumbnail>
@@ -271,6 +383,27 @@
 <thumbnail>https://i.imgur.com/a8pwcfZ.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+ 
+<item>
+<title>C-SPAN</title>
+<link>https://cspan1nontve-lh.akamaihd.net/i/CSpan1NonTVE_1@312667/master.m3u8</link>
+<thumbnail>https://i.imgur.com/065Uuj5.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>C-SPAN 2</title>
+<link>https://cspan2nontve-lh.akamaihd.net/i/CSpan2NonTVE_1@312669/master.m3u8</link>
+<thumbnail>https://i.imgur.com/VB5TMDP.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>C-SPAN 3</title>
+<link>https://cspan3nontve-lh.akamaihd.net/i/CSpan3NonTVE_1@312670/master.m3u8</link>
+<thumbnail>https://i.imgur.com/V99ofHS.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
 
 <item>
 <title>C-SPAN</title>
@@ -551,6 +684,13 @@
 <thumbnail>https://i.imgur.com/ifc74tS.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+ 
+<item>
+<title>CGTN Documentary</title>
+<link>http://live.cgtn.com/cctv-d.m3u8</link>
+<thumbnail>https://i.imgur.com/CokFGpz.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
 
 <item>
 <title>CGTN Русский</title>
@@ -662,6 +802,13 @@
 <link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
 <thumbnail>https://i.imgur.com/98Yl4Qz.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+ 
+<item>
+<title>Euronews</title>
+<link>http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
@@ -802,4 +949,11 @@
 <link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8</link>
 <thumbnail>http://www.televizyondizisi.com/wp-content/uploads/2015/10/TRTWORLDHABER.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+ 
+<item>
+<title>VOA</title>
+<link>https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8</link>
+<thumbnail>https://i.imgur.com/t4NU5ea.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
