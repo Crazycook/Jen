@@ -1,15 +1,9 @@
 <xml>
 
-    
 <dir>
-    <title>Search Artist Lastfm</title>
-    <lastfm>search/artist</lastfm>
- </dir>
-
- <dir>
-    <title>Search Album</title>
-    <lastfm>search/album</lastfm>
-  </dir>
+    <title>All Networks tvmaze</title>
+    <tvmaze>country/all</tvmaze>
+</dir>    
     
 <dir>
     <title>cCloud.atom</title>
