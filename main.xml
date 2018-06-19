@@ -55,8 +55,7 @@
 <dir>
     <title>Webcams</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
-</dir>   
-https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml    
+</dir>      
 <dir>
     <title>Live TV</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml</link>
@@ -69,48 +68,6 @@ https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml
     <title>trakt lists</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/trakt%20lists.xml</link>
 </dir> 
-
-   <dir>
-    <title>Watched Movies</title>
-    <trakt>https://api.trakt.tv/movies/watched</trakt>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/trakt.png</thumbnail>
-    <summary>Watched Movies</summary>
-  </dir>
-
-  <dir>
-    <title>Trending Movies</title>
-    <trakt>https://api.trakt.tv/movies/trending</trakt>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/trakt.png</thumbnail>
-    <summary>Trending Movies</summary>
-  </dir>
-
-  <dir>
-    <title>Popular Movies</title>
-    <trakt>https://api.trakt.tv/movies/popular</trakt>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/trakt.png</thumbnail>
-    <summary>Popular Movies</summary>
-  </dir>
-
-  <dir>
-    <title>Trending TV Shows</title>
-    <trakt>https://api.trakt.tv/shows/trending</trakt>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/trakt.png</thumbnail>
-    <summary>Trending TV Shows</summary>
-  </dir>
-
-  <dir>
-    <title>Popular TV Shows</title>
-    <trakt>https://api.trakt.tv/shows/popular</trakt>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/trakt.png</thumbnail>
-    <summary>Popular TV Shows</summary>
-  </dir>
-
-  <dir>
-    <title>Collected TV Shows</title>
-    <trakt>https://api.trakt.tv/shows/collected/weekly</trakt>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/trakt.png</thumbnail>
-    <summary>Collected TV Shows</summary>
-  </dir>
 <dir>
     <title>Disney Movies</title>
     <link>trakt_list(arb,disney)</link>
