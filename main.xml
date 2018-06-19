@@ -1,16 +1,8 @@
 <xml>
-<dir>
-    <title>Search Trakt</title>
-    <trakt>search</trakt>
- </dir>
 
- <dir>
-    <title>Search TMDB</title>
-    <tmdb>search</tmdb>
- </dir>   
     
- <dir>
-    <title>Search Artist</title>
+<dir>
+    <title>Search Artist Lastfm</title>
     <lastfm>search/artist</lastfm>
  </dir>
 
@@ -77,10 +69,7 @@ https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml
     <title>trakt lists</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/trakt%20lists.xml</link>
 </dir> 
-<dir>
-  <title>Reddit Top 250 (2017 Edition)</title>
-  <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2018-edition/items</trakt>
-</dir>
+
    <dir>
     <title>Watched Movies</title>
     <trakt>https://api.trakt.tv/movies/watched</trakt>
@@ -123,26 +112,6 @@ https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml
     <summary>Collected TV Shows</summary>
   </dir>
 <dir>
-    <title>Popular</title>
-    <tmdb>movies/popular</tmdb>
-    <summary>Popular Movies</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/most-popular.png</thumbnail>
-  </dir>
-
-  <dir>
-    <title>Now Playing</title>
-    <tmdb>movies/now_playing</tmdb>
-    <summary>Movies Currently In Theaters</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/in-theaters.png</thumbnail>
-  </dir>
-
-  <dir>
-    <title>Top Rated</title>
-    <tmdb>movies/top_rated</tmdb>
-    <summary>Top Rated TMDB Movies</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/populars.png</thumbnail>
-  </dir>
-<dir>
     <title>Disney Movies</title>
     <link>trakt_list(arb,disney)</link>
     <summary>Disney Movie Collection</summary>
@@ -154,38 +123,5 @@ https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml
     <link>trakt_list(arb,oscar-winners)</link>
     <summary>Winners of Best Picture Award</summary>
     <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/oscars.png</thumbnail>
-  </dir>
-
-  <dir>
-    <title>Upcoming Movies</title>
-    <tmdb>movie/upcoming</tmdb>
-    <summary>Shows Trailers For Upcoming Movies</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/featured.png</thumbnail>
-  </dir>
-<dir>
-    <title>Popular</title>
-    <tmdb>tv/popular</tmdb>
-    <summary>Popular Shows</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/most-popular.png</thumbnail>
-  </dir>
-
-  <dir>
-    <title>Airing Today</title>
-    <tmdb>tv/today</tmdb>
-    <summary>Episodes Airing Today</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/airing-today.png</thumbnail>
-  </dir>
-
-  <dir>
-    <title>Top Rated</title>
-    <tmdb>tv/top_rated</tmdb>
-    <summary>Top Rated TMDB Shows</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/highly-rated.png</thumbnail>
-  </dir>
-<dir>
-    <title>On The Air</title>
-    <tmdb>tv/on_the_air</tmdb>
-    <summary>Shows Airing in Next 7 Days</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/latest-episodes.png</thumbnail>
-  </dir> 
+    </dir>
 </xml>
