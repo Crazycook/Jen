@@ -2,7 +2,7 @@
 <dir>
     <title>Africa Radio</title>
     <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
-    <link></link>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Africa%20Radio.xml</link>
     <fanart>https://imgur.com/sTGiUvr</fanart>
     <info></info>
 </dir>     
@@ -10,7 +10,7 @@
 <dir>
     <title>Asia Radio</title>
     <thumbnail>https://i.imgur.com/EJpMJSa.gif</thumbnail>
-    <link></link>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Asia%20radio.xml</link>
     <fanart>https://imgur.com/sTGiUvr</fanart>
     <info>Radio from Asia</info>
 </dir>   
@@ -18,7 +18,7 @@
 <dir>
     <title>Europe Radio</title>
     <thumbnail>https://i.imgur.com/HiZZH66.jpg</thumbnail>
-    <link></link>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Europe%20Radio.xml</link>
     <fanart>https://imgur.com/sTGiUvr</fanart>
     <info>Radio from Europe</info>
 </dir>   
@@ -26,15 +26,15 @@
 <dir>
     <title>North America Radio</title>
     <thumbnail>https://i.imgur.com/WvfLfI0.jpg</thumbnail>
-    <link></link>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/North%20American%20Radio.xml</link>
     <fanart>https://imgur.com/sTGiUvr</fanart>
     <info>Radio from north America</info>
 </dir>   
 
 <dir>
-    <title>South America Radio</title>
+    <title>Central andSouth America Radio</title>
     <thumbnail>https://i.imgur.com/NlVlc1B.jpg</thumbnail>
-    <link></link>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Central%20and%20south%20american%20Radio.xml</link>
     <fanart>https://imgur.com/sTGiUvr</fanart>
     <info>Radio from South America</info>
 </dir>   
