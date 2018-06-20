@@ -4,20 +4,27 @@
     <title>All Networks tvmaze</title>
     <tvmaze>country/all</tvmaze>
     <thumbnail>https://i.imgur.com/QTetVzH.jpg</thumbnail>
-    <fanart>https://imgur.com/xI934y5</fanart>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
 </dir>   
-    https://raw.githubusercontent.com/Crazycook/Jen/master/Pairing%20Tool.xml
+    
 <dir>
     <title>Pairing tool</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Pairing%20Tool.xml</link>
     <thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
-    <fanart>https://imgur.com/xI934y5</fanart>
-</dir>     
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>   
+   
+<dir>
+    <title>Podcasts</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/podcast.xml </link>
+    <thumbnail>https://i.imgur.com/dgcETgS.jpg</thumbnail>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>       
 <dir>
     <title>Music</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
     <thumbnailhttps://i.imgur.com/PfHX7ve.jpg</thumbnail>
-    <fanart>https://imgur.com/xI934y5</fanart>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
 </dir>
     
 <dir>
