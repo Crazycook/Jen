@@ -1,5 +1,10 @@
 <xml>
-
+    
+<dir>
+<title>Popular TV Shows tmdb</title>
+<tmdb>tv/popular</tmdb>
+</dir>
+    
 <dir>
     <title>All Networks tvmaze</title>
     <tvmaze>country/all</tvmaze>
