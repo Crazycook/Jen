@@ -1,0 +1,17 @@
+<xml>
+
+<dir>
+    <title>docheaven</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/docheaven.xml</link>
+    <thumbnail>https://topdocumentaryfilms.com/wp-content/themes/topdocs/images/site-logo-v4.svg</thumbnail>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>   
+
+<dir>
+    <title>topdocs</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/topdocs.xml</link>
+    <thumbnail>https://i.imgur.com/QTetVzH.jpg</thumbnail>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>   
+
+</xml>
