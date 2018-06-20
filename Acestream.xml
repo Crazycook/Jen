@@ -1,7 +1,7 @@
 <plugin>
 <title>world Cup English</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://2b3119a7752920ad43a627d4cf60f69e2e6efb04 English</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://2b3119a7752920ad43a627d4cf60f69e2e6efb04</sublink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
