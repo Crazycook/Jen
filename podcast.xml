@@ -5,5 +5,11 @@
         <thumbnail>https://i.imgur.com/WV4QfI0.jpg</thumbnail>
         <fanart>https://imgur.com/sTGiUvr</fanart>
     </dir>
-
+    
+    <dir>
+        <title>Podcastone</title>
+        <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Podcastone.xml</podbay>
+        <thumbnail>https://i.imgur.com/ZgLWdo4.png</thumbnail>
+        <fanart>https://imgur.com/sTGiUvr</fanart>
+    </dir>
 </xml>
