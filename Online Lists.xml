@@ -1,0 +1,29 @@
+<dir>
+    <title>cCloud.atom</title>
+    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+    <m3u>http://ccld.io/atom.m3u</m3u>
+    <fanart>https://imgur.com/xI934y5</fanart>
+    <info>cCloud.atom m3u list</info>
+</dir>  
+<dir>
+    <title>Autoiptv</title>
+    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+    <m3u>https://playlist.autoiptv.netnormal.php</m3u>
+    <fanart>https://imgur.com/xI934y5</fanart>
+    <info>cCloud.atom m3u list</info>
+</dir>  
+<dir>
+    <title>LegalStream</title>
+    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+    <m3u>https://raw.githubusercontent.com/notanewbie/LegalStream/master/LegalStream.m3u</m3u>
+    <fanart>https://imgur.com/xI934y5</fanart>
+    <info>cCloud.atom m3u list</info>
+</dir>     
+  
+<dir>
+    <title>Fluxus TV</title>
+    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+    <m3u>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</m3u>
+    <fanart>https://imgur.com/xI934y5</fanart>
+    <info>Fluxus TV m3u list</info>
+</dir>  
