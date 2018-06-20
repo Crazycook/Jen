@@ -1,0 +1,68 @@
+<plugin>
+<title>world Cup English</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://2b3119a7752920ad43a627d4cf60f69e2e6efb04 English</sublink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>world Cup English</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://b83b1ced0f1d36ed6f5cfa9cfb47941aa178f01b English</sublink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+ 
+<plugin>
+<title>world Cup French</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://d15c46f4ee2b3aecbb6d28e7c81970933e167cfd French</sublink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>world cup germany</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://aa7dbe07f3409b969d6aed45b956170fff52109b Germany</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>world cup portugal</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://b50c0f263b1f9ddbe62ae4afa48a68512237640e Portugal</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+ 
+<plugin>
+<title>world cup spanish</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://4dafbd30a1817ba191003ac76fb04c845a6121cc Spanish</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+ 
+<plugin>
+<title>world cup spanish</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://fac50f279768f6e271b4bf249b1ce762e400ad6a Spanish</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+7. 
+<plugin>
+<title>world cup spanish</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f07f40cc887905e30a603a602e9ea9a8d9f7422a Spanish</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
