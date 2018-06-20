@@ -1,7 +1,9 @@
 <xml>
     <dir>
         <title>podbay</title>
-        <podbay>pbcategory/top</podbay>
+        <link>https://raw.githubusercontent.com/Crazycook/Jen/master/podbay.xml</podbay>
+        <thumbnail>https://i.imgur.com/WV4QfI0.jpg</thumbnail>
+        <fanart>https://imgur.com/sTGiUvr</fanart>
     </dir>
 
 </xml>
