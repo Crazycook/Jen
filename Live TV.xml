@@ -25,6 +25,16 @@
 </dir>  
   
 <dir>
+<title>Sports Streams</title>
+<sport_stream>games</sport_stream>
+</dir>  
+  
+<dir>
+<title>HesGoal Games</title>
+<hesgoal>games</hesgoal>
+</dir>  
+  
+<dir>
 <name>24-7</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/24-7.xml</link>
