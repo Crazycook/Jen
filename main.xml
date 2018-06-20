@@ -46,6 +46,15 @@
     <title>Music</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
 </dir>
+    
+<dir>
+    <title>Radio</title>
+    <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Radio.xml </link>
+    <fanart>https://imgur.com/xI934y5</fanart>
+    <info>Fluxus TV m3u list</info>
+</dir>         
+   
 <dir>
     <title>Webcams</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
