@@ -19,7 +19,15 @@
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/podcast.xml</link>
     <thumbnail>https://i.imgur.com/dgcETgS.jpg</thumbnail>
     <fanart>https://imgur.com/sTGiUvr</fanart>
-</dir>       
+</dir> 
+  
+<dir>
+    <title>Documentaries</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/documentaries.xml</link>
+    <thumbnail>https://i.imgur.com/bRi72xF.jpg</thumbnail>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>     
+    
 <dir>
     <title>Music</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
