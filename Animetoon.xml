@@ -1,0 +1,44 @@
+<dir>
+    <title>Latest Releases (Short List)</title>
+    <wctoon>main/updates/0</wctoon>
+</dir>
+
+<dir>
+    <title>Latest Releases (Full List)</title>
+    <wctoon>wcdaily-updates</wctoon>
+</dir>
+
+<dir>
+    <title>Popular Series (Short List)</title>
+    <wctoon>main/popular_series/0</wctoon>
+</dir>
+
+<dir>
+    <title>Popular Series (Full List)</title>
+    <wctoon>popular-list</wctoon>
+</dir>
+
+<dir>
+    <title>Dubbed Anime</title>
+    <wctoon>category/dubbed-anime</wctoon>
+</dir>
+
+<dir>
+    <title>Cartoons</title>
+    <wctoon>category/cartoon</wctoon>
+</dir>
+
+<dir>
+    <title>Movies</title>
+    <wctoon>category/movies</wctoon>
+</dir>
+
+<dir>
+    <title>Search Movies</title>
+    <wctoon>wcsearch</wctoon>
+</dir>
+
+<dir>
+    <title>All 101 Dalmatians Movies</title>
+    <wctoon>wcsearch/101 dalmatians</wctoon>
+</dir>
