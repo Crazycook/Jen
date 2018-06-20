@@ -1,37 +1,40 @@
-<item>
+<xml>
+<dir>
     <title>cCloud.atom</title>
     <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
     <m3u>http://ccld.io/atom.m3u</m3u>
     <fanart>https://imgur.com/xI934y5</fanart>
     <info>cCloud.atom m3u list</info>
-</item>  
-<item>
-    <title>Autoiptv</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>https://playlist.autoiptv.netnormal.php</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>cCloud.atom m3u list</info>
-</item>  
-<item>
-    <title>LegalStream</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>https://raw.githubusercontent.com/notanewbie/LegalStream/master/LegalStream.m3u</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>cCloud.atom m3u list</info>
-</item>     
-  
-<item>
-    <title>Fluxus TV</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>Fluxus TV m3u list</info>
-</dir>  
+</dir>
+<dir>
+   <title>Autoiptv</title>
+   <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+   <m3u>https://playlist.autoiptv.netnormal.php</m3u>
+   <fanart>https://imgur.com/xI934y5</fanart>
+   <info>cCloud.atom m3u list</info>
+</dir>
+<dir>
+   <title>LegalStream</title>
+   <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+   <m3u>https://raw.githubusercontent.com/notanewbie/LegalStream/master/LegalStream.m3u</m3u>
+   <fanart>https://imgur.com/xI934y5</fanart>
+   <info>cCloud.atom m3u list</info>
+</dir>
 
-<item>
-    <title>Fluxus TV remote</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>https://dl.dropboxusercontent.com/s/36b1wtkkee3mced/iptv.m3u</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>Fluxus TV m3u list</info>
-</item> 
+<dir>
+   <title>Fluxus TV</title>
+   <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+   <m3u>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</m3u>
+   <fanart>https://imgur.com/xI934y5</fanart>
+   <info>Fluxus TV m3u list</info>
+</dir>
+
+<dir>
+  <title>Fluxus TV remote</title>
+  <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
+  <m3u>https://dl.dropboxusercontent.com/s/36b1wtkkee3mced/iptv.m3u</m3u>
+  <fanart>https://imgur.com/xI934y5</fanart>
+  <info>Fluxus TV m3u list</info>
+</dir> 
+
+</xml>
