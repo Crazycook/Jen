@@ -3,37 +3,9 @@
 <dir>
     <title>All Networks tvmaze</title>
     <tvmaze>country/all</tvmaze>
+    <thumbnail>https://i.imgur.com/QTetVzH.jpg</thumbnail>
+    <fanart>https://imgur.com/xI934y5</fanart>
 </dir>    
-    
-<dir>
-    <title>cCloud.atom</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>http://ccld.io/atom.m3u</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>cCloud.atom m3u list</info>
-</dir>  
-<dir>
-    <title>Autoiptv</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>https://playlist.autoiptv.netnormal.php</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>cCloud.atom m3u list</info>
-</dir>  
-<dir>
-    <title>LegalStream</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>https://raw.githubusercontent.com/notanewbie/LegalStream/master/LegalStream.m3u</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>cCloud.atom m3u list</info>
-</dir>     
-  
-<dir>
-    <title>Fluxus TV</title>
-    <thumbnail>https://imgur.com/CoHw8jr</thumbnail>
-    <m3u>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</m3u>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>Fluxus TV m3u list</info>
-</dir>  
     
 <dir>
     <title>Fluxus TV remote</title>
@@ -45,6 +17,8 @@
 <dir>
     <title>Music</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
+    <thumbnailhttps://i.imgur.com/PfHX7ve.jpg</thumbnail>
+    <fanart>https://imgur.com/xI934y5</fanart>
 </dir>
     
 <dir>
@@ -58,30 +32,21 @@
 <dir>
     <title>Webcams</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
+    <thumbnail>https://i.imgur.com/ing4Kq5.jpg</thumbnail>
+    <fanart>https://imgur.com/xI934y5</fanart>
 </dir>      
 <dir>
     <title>Live TV</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml</link>
+    <thumbnail>https://i.imgur.com/fRoenF5.jpg</thumbnail>
+    <fanart>https://imgur.com/xI934y5</fanart>
 </dir>    
-<dir>
-    <title>kids boxsets</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/kids_boxset.xml</link>
-</dir>
+
  <dir>
     <title>trakt lists</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/master/trakt%20lists.xml</link>
+    <thumbnail>https://i.imgur.com/kEjtYCu.png</thumbnail> 
+    <fanart>https://imgur.com/xI934y5</fanart> 
 </dir> 
-<dir>
-    <title>Disney Movies</title>
-    <link>trakt_list(arb,disney)</link>
-    <summary>Disney Movie Collection</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/disney.png</thumbnail>
-  </dir>
 
-  <dir>
-    <title>Oscar Winners</title>
-    <link>trakt_list(arb,oscar-winners)</link>
-    <summary>Winners of Best Picture Award</summary>
-    <thumbnail>https://raw.githubusercontent.com/OpenELEQ/repository.elysium/master/images/Default/oscars.png</thumbnail>
-    </dir>
 </xml>
