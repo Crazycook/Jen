@@ -1,0 +1,58 @@
+<xml>
+<dir>
+    <title>Africa Radio</title>
+    <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
+    <link></link>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+    <info></info>
+</dir>     
+
+<dir>
+    <title>Asia Radio</title>
+    <thumbnail>https://i.imgur.com/EJpMJSa.gif</thumbnail>
+    <link></link>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+    <info>Radio from Asia</info>
+</dir>   
+
+<dir>
+    <title>Europe Radio</title>
+    <thumbnail>https://i.imgur.com/HiZZH66.jpg</thumbnail>
+    <link></link>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+    <info>Radio from Europe</info>
+</dir>   
+
+<dir>
+    <title>North America Radio</title>
+    <thumbnail>https://i.imgur.com/WvfLfI0.jpg</thumbnail>
+    <link></link>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+    <info>Radio from north America</info>
+</dir>   
+
+<dir>
+    <title>South America Radio</title>
+    <thumbnail>https://i.imgur.com/NlVlc1B.jpg</thumbnail>
+    <link></link>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+    <info>Radio from South America</info>
+</dir>   
+
+
+<dir>
+    <title>Unsorted Radio</title>
+    <thumbnail>https://i.imgur.com/OQdSwqR.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Unsorted%20radio.xml</link>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+    <info>Radio staions to be sorted yet</info>
+</dir>   
+
+<dir>
+    <title>Web Radio</title>
+    <thumbnail>https://i.imgur.com/HcuN6PU.jpg</thumbnail>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Web%20Radio.xml</link>
+    <fanart>https://imgur.com/sTGiUvr</fanart>
+    <info>Radio from the Web</info>
+</dir> 
+</xml>  
