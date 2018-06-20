@@ -1,5 +1,5 @@
 <xml>
-Usage Examples:
+    
     <dir>
       <title>Trending Movies</title>
       <trakt>https://api.trakt.tv/movies/trending</trakt>
