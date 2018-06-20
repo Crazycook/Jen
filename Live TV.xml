@@ -48,7 +48,14 @@
 <link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Airtable.xml</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>   
-</dir>  
+</dir> 
+ 
+<dir>
+<title>Animetoon</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Animetoon.xml </link>
+<thumbnail>https://i.imgur.com/3TpS72F.jpg</thumbnail>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>   
+</dir>   
   
 <dir>
 <name>24-7</name>
