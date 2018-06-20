@@ -14,8 +14,8 @@
       <arconaitv2>shows</arconaitv2>
 </dir>
     
-<dir>
-      <title>24/7 Channels</title>
-      <arconaitv2>cable</arconaitv2>
-</dir>      
+ <dir>
+      <title>24/7 Movies</title>
+      <arconaitv2>movies</arconaitv2>
+ </dir> 
 </xml>
