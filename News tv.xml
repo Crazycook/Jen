@@ -109,6 +109,8 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+
+
 <item>
 <title>ABC News Digital</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8</link>
@@ -131,49 +133,49 @@
 </item>
 
 <item>
-<title>ABC News Digital 3</title>
+<title>ABC News Digital 4</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8</link>
 <thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
-<title>ABC News Digital 4</title>
+<title>ABC News Digital 5</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8</link>
 <thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
-<title>ABC News Digital 5</title>
+<title>ABC News Digital 6</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8</link>
 <thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
-<title>ABC News Digital 6</title>
+<title>ABC News Digital 7</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8</link>
 <thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
-<title>ABC News Digital 7</title>
+<title>ABC News Digital 8</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8</link>
 <thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
-<title>ABC News Digital 8</title>
+<title>ABC News Digital 9</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8</link>
 <thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
-<title>ABC News Digital 9</title>
+<title>ABC News Digital 11</title>
 <link>https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8</link>
 <thumbnail>https://i.imgur.com/7No9umW.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
@@ -243,7 +245,6 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-
 <item>
 <title>CBSN HD (720p)</title>
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8</link>
@@ -260,26 +261,26 @@
 
 <item>
 <title>MSNBC</title>
-<link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8</link>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8</link>
 <thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+ 
+<item>
+<title>MSNBC</title>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8</link>
+<thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
 
 <item>
 <title>NBC News Live</title>
 <link>http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
-<item>
-<title>MSNBC</title>
-<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_796_av-b.m3u8?</link>
-<thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
- 
-<item>
+ <item>
 <title>FNC Preview</title>
 <link>http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8</link>
 <thumbnail>https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg</thumbnail>
@@ -306,6 +307,20 @@
 <thumbnail>https://i.imgur.com/ttwq6cz.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+ 
+<item>
+<title>CNN</title>
+<link>http://212.8.253.29:1935/cnew/myStream/chunklist_w1422363517.m3u8</link>
+<thumbnail>https://i.imgur.com/gtcFGNb.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+ 
+<item>
+<title>CNN</title>
+<link>http://2243.janjuaplayer.com:8088/live/cnn_livestreaming/playlist.m3u8?id=71202&wowzasessionid=3090836141&pk=bf31065c90d599f6f6d38c10eab27b4764e236ff99dda25e60c84f30388dba41</link>
+<thumbnail>https://i.imgur.com/gtcFGNb.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
 
 <item>
 <title>Fox News Convention Coverage</title>
@@ -936,6 +951,13 @@
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+ 
+<item>
+<title>Sky News</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+<thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
 
 <item>
 <title>Sky TG 24 (ITA)</title>
@@ -957,3 +979,105 @@
 <thumbnail>https://i.imgur.com/t4NU5ea.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+ 
+<item>
+<title>2GB Sydney</title>
+<link>http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+
+<item>
+<title>2SM Sydney</title>
+<link>http://144.140.228.109:8220/mp3/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>2UE Sydney</title>
+<link>http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+
+<item>
+<title>3AW Melbourne</title>
+<link>http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>ABC Radio Canberra</title>
+<link>http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+
+<item>
+<title>ABC Jazz</title>
+<link>http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+#EXTINF:-1,
+
+<item>
+<title>CBC Radio One</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+
+<item>
+<title>CBC Radio 2</title>
+<link>http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+#EXTINF:-1,
+
+<item>
+<title>BBC Radio One</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+
+<item>
+<title>BBC Radio Two</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+#EXTINF:-1,
+
+<item>
+<title>BBC Radio Four</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+
+<item>
+<title>BBC Radio One</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8</link>
+<thumbnail>https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",
+
+<item>
+<title>BBC Radio Two</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8</link>
+<thumbnail>https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+
+<item>
+<title>BBC Radio Four</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8 </link>
+<thumbnail>https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
