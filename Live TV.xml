@@ -1,5 +1,13 @@
 <xml>
 
+ <dir>
+<name>tv themes</name>
+<thumbnail>https://i.imgur.com/3WhVwvW.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/TV%20Themes.xml</link>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>CrEwSaDe</info>
+</dir>
+  
 <dir>
 <name>Daily Lists</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
