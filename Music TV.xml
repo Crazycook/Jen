@@ -95,7 +95,7 @@
 
 <item>
 <title>California Music Channel</title>
-<linkhttp://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8</link>
+<link>http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8</link>
 <thumbnail>http://www.freeetv.com/images/01_logo/cmc_tv.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -164,36 +164,36 @@
 </item>
 
 <item>
+<title>Djing TV</title>
+<link>http://www.djing.com/tv/live.m3u8</link>
+<thumbnail>http://www.djing.com/newimages/logo.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
 <title>Djing</title>
 <link>http://cdn.djing.com/tv/05.m3u8</link>
 <thumbnail>http://www.djing.com/newimages/logo.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Djing HD</title>
 <link>http://www.djing.com/tv/h-05.m3u8</link>
 <thumbnail>http://www.djing.com/newimages/logo.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Djing DJS HD</title>
-<link>http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8</link>
-<thumbnail>http://i.imgur.com/jYrYDyA.</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Djing Animation HD</title>
-<link>http://www.djing.com/tv/a-05.m3u8</link>
+<link>http://www.djing.com/tv/animation.m3u8</link>
 <thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>DJING Dancefloor HD </title>
-<link>http://www.djing.com/tv/d-05.m3u8</link>
+<link>http://www.djing.com/tv/dancefloor.m3u8</link>
 <thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -202,21 +202,56 @@
 <title>DJING Hot Hot Hot HD</title>
 <link>http://www.djing.com/tv/hothothot.m3u8</link>
 <thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>DJing Ibiza</title>
-<link>http://www.djing.com/tv/d-05.m3u8</link>
+<link>http://www.djing.com/tv/ibiza.m3u8</link>
 <thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Djing Underground HD</title>
-<link>http://www.djing.com/tv/u-05.m3u8</link>
+<link>http://www.djing.com/tv/underground.m3u8</link>
 <thumbnail>http://i.imgur.com/2Vzv0RY.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>Djing Classic</title>
+<link>http://www.djing.com/tv/hits.m3u8</link>
+<thumbnail>http://i.imgur.com/2Vzv0RY.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>Djing Electro Rock</title>
+<link>http://www.djing.com/tv/session_electro-rock.m3u8</link>
+<thumbnail>http://i.imgur.com/2Vzv0RY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Djing French touch</title>
+<link>http://www.djing.com/tv/session_french-touch.m3u8</link>
+<thumbnail>http://i.imgur.com/2Vzv0RY.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUv</fanart>
+</item>
+
+<item>
+<title>Djing Karaoke</title>
+<link>http://www.djing.com/tv/karaoke.m3u8</link>
+<thumbnail>http://i.imgur.com/2Vzv0RY.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUv</fanart>
+</item>
+
+<item>
+<title>Djing Summer Vibes</title>
+<link>http://www.djing.com/tv/session_summer-vibes.m3u8</link>
+<thumbnail>http://i.imgur.com/2Vzv0RY.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUv</fanart>
 </item>
 
 <item>
@@ -450,99 +485,63 @@
 <title>MC Play</title>
 <link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?tecnotv.info?iptv.m3u8</link>
 <thumbnail>http://imgur.com/y1YCl0M.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Melody Channel</title>
 <link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/Y05EFlx.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>MIMUSICA HD</title>
 <link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
 <thumbnail>http://i.imgur.com/ZW7aKCx.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Mifa TV</title>
 <link>http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8</link>
 <thumbnail>http://i.imgur.com/9Q8O3P8.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>MUSIC CHOICE</title>
 <link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
-
-<item>
-<title>Music Choice - KIDS ONLY </title>
-<link>http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8 </link>
-<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Music Choice - POP HITS </title>
-<link>http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8 </link>
-<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<titleMusic Choice - DANCE EDM </title>
-<link>http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Music Choice - HIT LIST </title>
-<link>http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8 </link>
-<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
- 
-<item>
-<title>Music Choice - INDIE</title>
-<link>http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
 
 <item>
 <title>Radio Monte Carlo Tv</title>
 <link>rtmp://fms.105.net/live/rmc1</link>
 <thumbnail>http://i.imgur.com/gxJyOmp.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Music Box TV</title>
 <link>http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Music Channel</title>
 <link>http://stream.1music.hu/stream/1music.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>Music Choice</title>
 <link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<thumbnail>https://i.imgur.com/tZPd5F8.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
