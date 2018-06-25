@@ -20,15 +20,6 @@
 </item>
 
 <item>
-<title>4Music</title>
-<link>http://csm-e-cebxeurxaws101j8-5y3xud3rpbgp.tm.yospace.com/csm/live/123840953/4.m3u8;jsessionid=6A2EE072D3CF4D708B723C7689C77168.csm-e-cebxeurxaws101j8-5y3xud3rpbgp.bln1.yospace.com?yo.up=http%3A%2F%2Fboxtv.adaptive.level3.net%2F4music%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=950&height=940&yo.po=5&yo.ac=false&yopad=true&externalId=4music-desktop</link>
-<thumbnail>http://i.imgur.com/w22MZwa.png</thumbnail>
-<fanart>https://imgur.com/sTGiUvr</fanart>  
-<info>not working at present  http://www.boxplus.com</info>
-</item>
-
-
-<item>
 <title>24 Rock One</title>
 <link>http://194.116.83.15:80/24RockOne66</link>
 <thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
@@ -371,15 +362,6 @@
 </item>
 
 <item>
-<title>Hip Hop TV</title>
-<link>http://stream.cdn.smcloud.net/hiphoptv-p/stream1/chunklist_w219178733.m3u8</link>
-<thumbnail>http://i.imgur.com/wRwZc4l.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
- <info> not working yet http://hiphoptv.com/</info>
-</item>
-#EXTINF:-1, 
-
-<item>
 <title>FRESH TV MUSIC</title>
 <link>http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/muzSZCj.jpg</thumbnail>
@@ -441,8 +423,7 @@
 <link>http://ec.playmedia.fr/indies-live/live/playlist.m3u8</link>
 <thumbnail>http://nasdy.website/indieslive/wp-content/uploads/sites/47/2016/08/logo_il-2.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-#EXTINF:-1, 
+</item> 
 
 item>
 <title>Klik Tv</title>
@@ -457,8 +438,6 @@ item>
 <thumbnail>http://i.imgur.com/HwAQnHu.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-#EXTINF:0 group-title="(UK) United Kingdom",
-
 
 <item>
 <title>KOOL RADIO | SD (UK)</title>
@@ -483,8 +462,7 @@ item>
 
 <item>
 <title>M6 Music</title>
-<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-</link>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
 <thumbnail>http://i.imgur.com/ikBVYWV.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -530,6 +508,7 @@ item>
 <thumbnail>http://imgur.com/y1YCl0M.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+
 <item>
 <title>Radio Monte Carlo Tv</title>
 <link>rtmp://fms.105.net/live/rmc1</link>
@@ -619,8 +598,7 @@ item>
 <link>http://5.196.138.6:1935/live/nrjbelgique_360p/plylist.m3u8</link>
 <thumbnail>http://i.imgur.com/I8hEcLc.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-#EXTINF:-1, 
+</item> 
 
 <item>
 <title>O!2</title>
@@ -776,6 +754,7 @@ item>
 <thumbnail>https://i.imgur.com/givrNY2.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+
 <item>
 <title>Radio Italia Tv</title>
 <link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8</link>
@@ -850,14 +829,14 @@ item>
 <title>Retro TV</title>
 <link>rtmp://stream.mediawork.cz/retrotv/retrotvHQ1</link>
 <thumbnail>https://i.imgur.com/bFBUWfJ.jpg</thumbnail>
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>Retro TV</title>
 <link>http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/bFBUWfJ.jpg</thumbnail>
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
@@ -893,8 +872,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 <link>http://185.46.161.3/hls/sd.m3u8</link>
 <thumbnail>http://www.digital-news.it/files-admin/Simone/1437576511-roma-tv.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-#EXTINF:-1, 
+</item> 
 
 <item>
 <title>RTI HD</title>
@@ -1029,7 +1007,6 @@ http://edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w538610131.m3u8
 <thumbnail>https://i.imgur.com/nUK2yBx.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-#EXTINF:0,
 
 <item>
 <title>XITE POP</title>
