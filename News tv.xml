@@ -217,6 +217,13 @@
 </item>
 
 <item>
+<title>Arise News</title>
+<link>http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8</link>
+<thumbnail>http://www.digitaltveurope.net/wp-content/uploads/2014/12/Arise-News.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>BBC World News</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
 <thumbnail>http://channelpear.com/images/media/3130.png</thumbnail>
@@ -545,6 +552,14 @@
 <thumbnail>https://i.imgur.com/LGtakIq.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+ 
+<item>
+<title>Newsy (USA)</title>
+<link>https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb</link>
+<thumbnail>https://i.imgur.com/kCfMo6A.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+ 
 
 <item>
 <title>NHK World</title>
@@ -955,6 +970,13 @@
 <item>
 <title>Sky News</title>
 <link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+<thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+ 
+<item>
+<title>Sky News</title>
+<link>http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8</link>
 <thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item> 
