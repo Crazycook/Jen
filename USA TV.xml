@@ -100,6 +100,13 @@
 </item>
 
 <item>
+<title>Cartoon Network</title>
+<link>http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://i.imgur.com/l1iLGWg.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
 <title>Classic Arts Showcase</title>
 <link>https://classicarts.global.ssl.fastly.net/live/cas/master_1500k.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png</thumbnail>
@@ -130,6 +137,13 @@
 <item>
 <title>Daytona Beach TV</title>
 <link>http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>denver open media channel 56</title>
+<link>https://dkp8rf3nn2n8j.cloudfront.net/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8</link>
 <thumbnail></thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
@@ -320,10 +334,10 @@
 </item>
 
 <item>
-<title>Songwriters Series</title>
-<link>http://streams.tvknob.com/tvloops/CH3/ch3.wsx</link>
-<thumbnail>http://i.imgur.com/fgWwFdX.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<title>TBD</title>
+<link>http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a</link>
+<thumbnail>https://i.imgur.com/aZW2IuV.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
@@ -344,6 +358,13 @@
 <title>TSTV</title>
 <link>http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8</link>
 <thumbnail></thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
+
+<item>
+<title>Tuff TV</title>
+<link>http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/2y9pZxf.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
  
