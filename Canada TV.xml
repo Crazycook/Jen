@@ -139,6 +139,13 @@
 <thumbnail>https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+   
+<item>
+<title>Miracle Channel </title>
+<link>https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w441234732.m3u8</link>
+<thumbnail>https://i.imgur.com/KICxA5n.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>  
 
 <item>
 <title>NTV Newfoundland</title>
@@ -146,8 +153,6 @@
 <thumbnail>https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANADA",
 
 <item>
 <title>Tele-Quebec</title>
