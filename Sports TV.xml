@@ -200,15 +200,26 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 </item>
  
 <item>
+<title>dubai Racing 1</title>
+<link>http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b480000.m3u8</link>
+<thumbnail>https://i.imgur.com/9wyugyn.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+ 
+<item>
+<title>dubai Racing 2</title>
+<link>http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b750000.m3u8</link>
+<thumbnail>https://i.imgur.com/9wyugyn.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item> 
+ 
+<item>
 <title>DeporTV</title>
 <link>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8 </link>
 <thumbnail>https://i.imgur.com/1BasNMa.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item> 
  
-#EXTINF:-1,DeporTV
-
-
 <item>
 <title>Esporte Interativo - Portuguese</title>
 <link>http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8?</link>
@@ -233,6 +244,13 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <title>Eurosport France</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/eDKrt4P.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+ 
+<item>
+<title>Kuait Sports Channel</title>
+<link>https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_b1600000.m3u8?nimblesessionid=108913</link>
+<thumbnail>https://i.imgur.com/ATzIAFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
