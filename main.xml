@@ -2,13 +2,18 @@
   
 <dir>
 <title>world cup acestream</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/master/Acestream.xm</link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/Acestream.xml</link>
 </dir>  
     
 <dir>
 <title>Popular TV Shows tmdb</title>
 <tmdb>tv/popular</tmdb>
 </dir>
+  
+<dir>
+<title>shared Lists</title>
+<<link>https://raw.githubusercontent.com/Crazycook/Jen/master/shared%20lists.xml/link>
+</dir> 
   
 <dir>
   <title>Best Picture Winners - The Academy Awards</title>
