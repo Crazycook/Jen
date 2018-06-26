@@ -9,7 +9,17 @@
 <title>Popular TV Shows tmdb</title>
 <tmdb>tv/popular</tmdb>
 </dir>
-    
+  
+<dir>
+  <title>TMDB List: Animal Kingdom</title>
+  <tmdb>list/13488</tmdb>
+</dir>  
+
+<dir>
+  <title>Shan Animated</title>
+  <tmdb>list/32947</tmdb>
+</dir>  
+  
 <dir>
     <title>All Networks tvmaze</title>
     <tvmaze>country/all</tvmaze>
