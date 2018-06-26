@@ -191,10 +191,6 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>ABC News Digital</title>
 <link>https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8</link>
@@ -323,7 +319,14 @@
 
 <item>
 <title>Aljazeera Arabic</title>
-<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high</link>
+<link>http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera Balkans</title>
+<link>http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8</link>
 <thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -854,12 +857,12 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item> 
 
-<item>
-<title>Press TV</title>
-<link>http://178.32.255.199:1935/live/ptven/playlist.m3u8</link>
-<thumbnail></thumbnail>
+ <item>
+<title>Rai News</title>
+<link>https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8 </link>
+<thumbnail>https://i.imgur.com/p8nxiGg.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item> 
+</item>  
  
 <item>
 <title>RTE News Now</title>
@@ -921,13 +924,6 @@
 <title>Sky News</title>
 <link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
 <thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item> 
- 
-<item>
-<title>Sky News</title>
-<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
-<thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item> 
  
@@ -940,7 +936,7 @@
 
 <item>
 <title>Sky TG 24 (ITA)</title>
-<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</link>
 <thumbnail>https://i.imgur.com/Kg5E2Rh.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item> 
