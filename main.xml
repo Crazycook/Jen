@@ -11,9 +11,15 @@
 </dir>
   
 <dir>
+<title>Popular TV Shows tmdb</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/kids%20boxsets.xml<link>
+</dir> 
+  
+<dir>
 <title>shared Lists</title>
 <<link>https://raw.githubusercontent.com/Crazycook/Jen/master/shared%20lists.xml/link>
 </dir> 
+ 
   
 <dir>
   <title>Best Picture Winners - The Academy Awards</title>
