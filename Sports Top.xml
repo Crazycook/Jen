@@ -7,3 +7,16 @@
 <fanart>https://imgur.com/sTGiUvr</fanart>
 <info>CrEwSaDe</info>
 </dir>
+  
+<dir>
+<title>Sports Streams</title>
+<sport_stream>games</sport_stream>
+</dir>  
+  
+<dir>
+<title>HesGoal Games</title>
+<hesgoal>games</hesgoal>
+<thumbnail>https://i.imgur.com/AFLYbkT.png</thumbnail> 
+<fanart>http://i.imgur.com/xSicatN.png</fanart>  
+</dir>  
+</xml>
