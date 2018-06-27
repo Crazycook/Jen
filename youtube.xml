@@ -1,8 +1,3 @@
-<item>
-    <title>Apply the Addon's Youtube API Keys to Kodi</title>
-    <ytapi>API key 1/AIzaSyD_Hn5Rv0EycgSCCshsqNRSsrAbYbV3KhY/749158561146-8g5v1106uvb7sf7p51vael3tvbatpki2.apps.googleusercontent.com/HzQ0Tttb_pyY57E49WvVjSDq</ytapi>
-</item>
-
 <plugin>
 <title>Playlist Test</title>
 <link>plugin://plugin.video.youtube/playlist/PLKnoifHxcT0b16B_2eR0l61igOsZHR7rp/</link>
