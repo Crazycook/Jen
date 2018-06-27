@@ -1,6 +1,16 @@
 <item>
-<title>ALF.S01E01.</title>
-</meta> 
+<title>ALF.S01E01.</title> 
+<meta>
+  <content>episode</content>
+  <imdb>tt0090390</imdb>
+  <tvdb>269583</tvdb>
+  <tvshowtitle>ALF</tvshowtitle>
+  <year>1986</year>
+  <title>>A.L.F.</title>
+  <premiered>1986</premiered>
+  <season>1</season>
+  <episode>1</episode>
+</meta>
 <link>
 <sublink>search</sublink>
 <sublink>searchsd</sublink>
