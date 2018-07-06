@@ -154,6 +154,14 @@
 <thumbnail>https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+#EXTINF:-1,
+
+ <item>
+<title>District Knowledge Network</title>
+<link>http://video.oct.dc.gov/out/u/96_4.m3u8</link>
+<thumbnail>https://i.imgur.com/sIt3DmP.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</item>
 
 <item>
 <title>DMTV - 7CTV - Des Moines - IA Iowa</title>
