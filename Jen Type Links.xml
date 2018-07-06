@@ -35,5 +35,10 @@
 <title>Bryan Cranston shows Trakt</title>
 <trakt>https://api.trakt.tv/people/bryan-cranston/shows</trakt>
 </dir>  
-
+  
+<dir>
+<title>All Networks tvmaze</title>
+<tvmaze>country/all</tvmaze>
+<thumbnail>https://i.imgur.com/QTetVzH.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </xml>
