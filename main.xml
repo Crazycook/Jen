@@ -1,10 +1,14 @@
 <xml>
-  
 
 <dir>
-<title>Alf</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/master/ALF.xml </link>
+<title>movies we think</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/movies%20we%20think.xml </link>
 </dir> 
+<dir>
+<title>Alf</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/ALF.xml</link>
+</dir> 
+  
 <dir>
 <title>youtube stuff</title>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/master/youtube.xml</link>
