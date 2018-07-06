@@ -5,5 +5,35 @@
 <icon></icon>
 <fanart></fanart>
 </dir>
+  
+<dir>
+<title>Trending Shows</title>
+<trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+<title>Popular Shows</title>
+<trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+
+<dir>
+<title>TV Watchlist</title>
+<trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+</dir>
+
+<dir>
+<title>TV Collection</title>
+<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+</dir>  
+  
+<dir>
+<title>Reddit Top 250 (2017 Edition)</title>
+<trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+</dir>  
+  
+<dir>
+<title>Bryan Cranston shows Trakt</title>
+<trakt>https://api.trakt.tv/people/bryan-cranston/shows</trakt>
+</dir>  
 
 </xml>
