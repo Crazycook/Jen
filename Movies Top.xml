@@ -5,8 +5,15 @@
 <link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/legionworld.xml</link>
 <thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart> 
-</dir> 
+</dir>
   
+<dir>
+<title>Vevo links</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/vevo.xml</link>
+<thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart> 
+</dir>
+    
 <dir>
 <title>Jen Type Links</title>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/Jen%20Type%20Links.xml</link>
