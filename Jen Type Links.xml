@@ -6,4 +6,637 @@
 <fanart></fanart>
 </dir>
 
+  <dir>
+<title>Trending Movies</title>
+<trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
+<dir>
+<title>Popular Movies</title>
+<trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
+
+<dir>
+<title>Movie Watchlist</title>
+<trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+
+<dir>
+<title>Movie Collection</title>
+<trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+</dir>
+  
+<dir>
+<title>Reddit Top 250 (2017 Edition)</title>
+<trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+</dir>
+
+<dir>
+<title>Bryan Cranston Movies Trakt</title>
+<trakt>https://api.trakt.tv/people/bryan-cranston/movies</trakt>
+</dir>  
+ 
+<dir>
+  <title>Action</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>Adventure</title>
+  <tmdb>genre/movies/12</tmdb>
+</dir>
+
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/movies/16</tmdb>
+</dir>
+
+<dir>
+  <title>Comedy</title>
+  <tmdb>genre/movies/35</tmdb>
+</dir>
+
+<dir>
+  <title>Crime</title>
+  <tmdb>genre/movies/80</tmdb>
+</dir>
+
+<dir>
+  <title>Documentary</title>
+  <tmdb>genre/movies/99</tmdb>
+</dir>
+
+<dir>
+  <title>Drama</title>
+  <tmdb>genre/movies/18</tmdb>
+</dir>
+
+<dir>
+  <title>Family</title>
+  <tmdb>genre/movies/10751</tmdb>
+</dir>
+
+<dir>
+  <title>Fantasy</title>
+  <tmdb>genre/movies/14</tmdb>
+</dir>
+
+<dir>
+  <title>History</title>
+  <tmdb>genre/movies/36</tmdb>
+</dir>
+
+<dir>
+  <title>Horror</title>
+  <tmdb>genre/movies/27</tmdb>
+</dir>
+
+<dir>
+  <title>Music</title>
+  <tmdb>genre/movies/10402</tmdb>
+</dir>
+
+<dir>
+  <title>Mystery</title>
+  <tmdb>genre/movies/9648</tmdb>
+</dir>
+
+<dir>
+  <title>Romance</title>
+  <tmdb>genre/movies/10749</tmdb>
+</dir>
+
+<dir>
+  <title>Science Fiction</title>
+  <tmdb>genre/movies/878</tmdb>
+</dir>
+
+<dir>
+  <title>TV Movie</title>
+  <tmdb>genre/movies/10770</tmdb>
+</dir>
+
+<dir>
+  <title>Thriller</title>
+  <tmdb>genre/movies/53</tmdb>
+</dir>
+
+<dir>
+  <title>War</title>
+  <tmdb>genre/movies/10752</tmdb>
+</dir>
+
+<dir>
+  <title>Western</title>
+  <tmdb>genre/movies/37</tmdb>
+</dir>
+
+<dir>
+    <title>2017 Movies</title>
+    <tmdb>year/movies/2017</tmdb>
+  </dir>
+
+  <dir>
+    <title>2016 Movies</title>
+    <tmdb>year/movies/2016</tmdb>
+  </dir>
+
+  <dir>
+    <title>2015 Movies</title>
+    <tmdb>year/movies/2015</tmdb>
+  </dir>
+
+  <dir>
+    <title>2014 Movies</title>
+    <tmdb>year/movies/2014</tmdb>
+  </dir>
+
+  <dir>
+    <title>2013 Movies</title>
+    <tmdb>year/movies/2013</tmdb>
+  </dir>
+
+  <dir>
+    <title>2012 Movies</title>
+    <tmdb>year/movies/2012</tmdb>
+  </dir>
+
+  <dir>
+    <title>2011 Movies</title>
+    <tmdb>year/movies/2011</tmdb>
+  </dir>
+
+  <dir>
+    <title>2010 Movies</title>
+    <tmdb>year/movies/2010</tmdb>
+  </dir>
+
+  <dir>
+    <title>2009 Movies</title>
+    <tmdb>year/movies/2009</tmdb>
+  </dir>
+
+  <dir>
+    <title>2008 Movies</title>
+    <tmdb>year/movies/2008</tmdb>
+  </dir>
+
+  <dir>
+    <title>2007 Movies</title>
+    <tmdb>year/movies/2007</tmdb>
+  </dir>
+
+  <dir>
+    <title>2006 Movies</title>
+    <tmdb>year/movies/2006</tmdb>
+  </dir>
+
+  <dir>
+    <title>2005 Movies</title>
+    <tmdb>year/movies/2005</tmdb>
+  </dir>
+
+  <dir>
+    <title>2004 Movies</title>
+    <tmdb>year/movies/2004</tmdb>
+  </dir>
+
+  <dir>
+    <title>2003 Movies</title>
+    <tmdb>year/movies/2003</tmdb>
+  </dir>
+
+  <dir>
+    <title>2002 Movies</title>
+    <tmdb>year/movies/2002</tmdb>
+  </dir>
+
+  <dir>
+    <title>2001 Movies</title>
+    <tmdb>year/movies/2001</tmdb>
+  </dir>
+
+  <dir>
+    <title>2000 Movies</title>
+    <tmdb>year/movies/2000</tmdb>
+  </dir>
+  
+   <dir>
+    <title>1980 - 1999 Movies</title>
+    <link>1999.xml</link>
+  </dir>
+
+  <dir>
+    <title>1960 - 1979 Movies</title>
+    <link>1979.xml</link>
+  </dir>
+
+  <dir>
+    <title>1940 - 1959 Movies</title>
+    <link>1959.xml</link>
+  </dir>
+
+  <<dir>
+    <title>2017 Movies</title>
+    <tmdb>year/movies/2017</tmdb>
+  </dir>
+
+  <dir>
+    <title>2016 Movies</title>
+    <tmdb>year/movies/2016</tmdb>
+  </dir>
+
+  <dir>
+    <title>2015 Movies</title>
+    <tmdb>year/movies/2015</tmdb>
+  </dir>
+
+  <dir>
+    <title>2014 Movies</title>
+    <tmdb>year/movies/2014</tmdb>
+  </dir>
+
+  <dir>
+    <title>2013 Movies</title>
+    <tmdb>year/movies/2013</tmdb>
+  </dir>
+
+  <dir>
+    <title>2012 Movies</title>
+    <tmdb>year/movies/2012</tmdb>
+  </dir>
+
+  <dir>
+    <title>2011 Movies</title>
+    <tmdb>year/movies/2011</tmdb>
+  </dir>
+
+  <dir>
+    <title>2010 Movies</title>
+    <tmdb>year/movies/2010</tmdb>
+  </dir>
+
+  <dir>
+    <title>2009 Movies</title>
+    <tmdb>year/movies/2009</tmdb>
+  </dir>
+
+  <dir>
+    <title>2008 Movies</title>
+    <tmdb>year/movies/2008</tmdb>
+  </dir>
+
+  <dir>
+    <title>2007 Movies</title>
+    <tmdb>year/movies/2007</tmdb>
+  </dir>
+
+  <dir>
+    <title>2006 Movies</title>
+    <tmdb>year/movies/2006</tmdb>
+  </dir>
+
+  <dir>
+    <title>2005 Movies</title>
+    <tmdb>year/movies/2005</tmdb>
+  </dir>
+
+  <dir>
+    <title>2004 Movies</title>
+    <tmdb>year/movies/2004</tmdb>
+  </dir>
+
+  <dir>
+    <title>2003 Movies</title>
+    <tmdb>year/movies/2003</tmdb>
+  </dir>
+
+  <dir>
+    <title>2002 Movies</title>
+    <tmdb>year/movies/2002</tmdb>
+  </dir>
+
+  <dir>
+    <title>2001 Movies</title>
+    <tmdb>year/movies/2001</tmdb>
+  </dir>
+
+  <dir>
+    <title>2000 Movies</title>
+    <tmdb>year/movies/2000</tmdb>
+  </dir>
+  
+  <dir>
+    <title>1980 - 1999 Movies</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1999.xml</link>
+  </dir>
+
+  <dir>
+    <title>1960 - 1979 Movies</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1979.xml</link>
+  </dir>
+
+  <dir>
+    <title>1940 - 1959 Movies</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1959.xml</link>
+  </dir>
+
+  <dir>
+    <title>1920 - 1939 Movies</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1939.xml</link>
+  </dir>
+
+  <dir>
+    <title>1900 - 1919 Movies</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1919.xml</link>
+  </dir>
+  
+<dir>
+  <title>40 Acres & A Mule Filmworks</title>
+  <tmdb>company/movies/4319</tmdb>
+</dir>
+
+<dir>
+  <title>Columbia Pictures</title>
+  <tmdb>company/movies/5</tmdb>
+</dir>
+
+<dir>
+  <title>Columbia TriStar</title>
+  <tmdb>company/movies/177</tmdb>
+</dir>
+
+<dir>
+  <title>Destination Films</title>
+  <tmdb>company/movies/769</tmdb>
+</dir>
+
+<dir>
+  <title>Dimension Films</title>
+  <tmdb>company/movies/7405</tmdb>
+</dir>
+
+<dir>
+  <title>Disney</title>
+  <tmdb>company/movies/6421</tmdb>
+</dir>
+
+<dir>
+  <title>DreamWorks</title>
+  <tmdb>company/movies/7</tmdb>
+</dir>
+
+<dir>
+  <title>DreamWorks Animation</title>
+  <tmdb>company/movies/521</tmdb>
+</dir>
+
+<dir>
+  <title>DreamWorks Pictures</title>
+  <tmdb>company/movies/7293</tmdb>
+</dir>
+
+<dir>
+  <title>DreamWorks SKG</title>
+  <tmdb>company/movies/27</tmdb>
+</dir>
+
+<dir>
+  <title>Focus Features</title>
+  <tmdb>company/movies/10146</tmdb>
+</dir>
+
+<dir>
+  <title>Fox Searchlight Pictures</title>
+  <tmdb>company/movies/43</tmdb>
+</dir>
+
+<dir>
+  <title>Hallmark Hall of Fame Productions</title>
+  <tmdb>company/movies/9027</tmdb>
+</dir>
+
+<dir>
+  <title>Happy Madison Productions</title>
+  <tmdb>company/movies/2608</tmdb>
+</dir>
+
+<dir>
+  <title>IFC Films</title>
+  <tmdb>company/movies/307</tmdb>
+</dir>
+
+<dir>
+  <title>Legendary Pictures</title>
+  <tmdb>company/movies/923</tmdb>
+</dir>
+
+<dir>
+  <title>Lions Gate Entertainments</title>
+  <tmdb>company/movies/7035</tmdb>
+</dir>
+
+<dir>
+  <title>Lions Gate Family Entertainment</title>
+  <tmdb>company/movies/6574</tmdb>
+</dir>
+
+<dir>
+  <title>Lucasfilm</title>
+  <tmdb>company/movies/1</tmdb>
+</dir>
+
+<dir>
+  <title>Magnolia Pictures</title>
+  <tmdb>company/movies/1030</tmdb>
+</dir>
+
+<dir>
+  <title>Marvel Studios</title>
+  <tmdb>company/movies/420</tmdb>
+</dir>
+
+<dir>
+  <title>Metro-Goldwyn-Mayer (MGM)</title>
+  <tmdb>company/movies/8411</tmdb>
+</dir>
+
+<dir>
+  <title>New Line Cinema</title>
+  <tmdb>company/movies/12</tmdb>
+</dir>
+
+<dir>
+  <title>Original Film</title>
+  <tmdb>company/movies/333</tmdb>
+</dir>
+
+<dir>
+  <title>Paramount Pictures</title>
+  <tmdb>company/movies/4</tmdb>
+</dir>
+
+<dir>
+  <title>Pixar Animation</title>
+  <tmdb>company/movies/3</tmdb>
+</dir>
+
+<dir>
+  <title>Screen Gems</title>
+  <tmdb>company/movies/3287</tmdb>
+</dir>
+
+<dir>
+  <title>Sony Pictures</title>
+  <tmdb>company/movies/34</tmdb>
+</dir>
+
+<dir>
+  <title>Sony Pictures Entertainment</title>
+  <tmdb>company/movies/5752</tmdb>
+</dir>
+
+<dir>
+  <title>Spyglass Entertainment</title>
+  <tmdb>company/movies/158</tmdb>
+</dir>
+
+<dir>
+  <title>Summit Entertainment</title>
+  <tmdb>company/movies/491</tmdb>
+</dir>
+
+<dir>
+  <title>The Weinstein Company</title>
+  <tmdb>company/movies/308</tmdb>
+</dir>
+
+<dir>
+  <title>Touchstone Pictures</title>
+  <tmdb>company/movies/9195</tmdb>
+</dir>
+
+<dir>
+  <title>Twentieth Century Fox Film Corporation</title>
+  <tmdb>company/movies/306</tmdb>
+</dir>
+
+<dir>
+  <title>United Artists</title>
+  <tmdb>company/movies/60</tmdb>
+</dir>
+
+<dir>
+  <title>Universal Animation Studios</title>
+  <tmdb>company/movies/5556</tmdb>
+</dir>
+
+<dir>
+  <title>Universal Cartoon Studios</title>
+  <tmdb>company/movies/4285</tmdb>
+</dir>
+
+<dir>
+  <title>Universal Studios</title>
+  <tmdb>company/movies/13</tmdb>
+</dir>
+
+<dir>
+  <title>Walt Disney Animation Studios</title>
+  <tmdb>company/movies/6125</tmdb>
+</dir>
+
+<dir>
+  <title>Walt Disney Production</title>
+  <tmdb>company/movies/6470</tmdb>
+</dir>
+
+<dir>
+  <title>Walt Disney Productions</title>
+  <tmdb>company/movies/3166</tmdb>
+</dir>
+
+<dir>
+  <title>Warner Bros.</title>
+  <tmdb>company/movies/6194</tmdb>
+</dir>
+
+<dir>
+  <title>Warner Bros. Animation</title>
+  <tmdb>company/movies/2785</tmdb>
+</dir>
+
+<dir>
+  <title>Warner Bros. Entertainment</title>
+  <tmdb>company/movies/17</tmdb>
+</dir>
+
+<dir>
+  <title>Warner Bros. Pictures</title>
+  <tmdb>company/movies/174</tmdb>
+</dir>
+
+<dir>
+  <title>Reddit Top 250 (2017 Edition)</title>
+  <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+</dir>
+
+<dir>
+  <title>Rotten Tomatoes: Best of 2017</title>
+  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
+</dir>
+
+<dir>
+  <title>TMDB List: Animal Kingdom</title>
+  <tmdb>list/13488</tmdb>
+</dir>
+
+<dir>
+  <title>Shan Animated</title>
+  <tmdb>list/32947</tmdb>
+</dir>
+
+<dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
+<dir>
+  <title>Popular Movies</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
+
+<dir>
+  <title>Movie Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+
+<dir>
+  <title>Movie Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+</dir>
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Action Movies</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Star Wars Collection</title>
+  <tmdb>collection/10</tmdb>
 </xml>
