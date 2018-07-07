@@ -7,4 +7,10 @@
 <fanart></fanart>
 </dir>
 
+<dir>
+<title>vevo</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/vevo.xml</>
+<icon></icon>
+<fanart></fanart>
+</dir>
 </xml>
