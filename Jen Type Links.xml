@@ -1,12 +1,11 @@
 <xml>
 
 <dir>
-<title></title>
-<icon></icon>
-<fanart></fanart>
-</dir>
+<title>Best Picture Winners - The Academy Awards</title>
+<tmdb>list/28</tmdb>
+</dir>  
 
-  <dir>
+<dir>
 <title>Trending Movies</title>
 <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
