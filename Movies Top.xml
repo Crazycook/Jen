@@ -20,5 +20,12 @@
 <thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart> 
 </dir>
+ 
+<dir>
+<title>test</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/test.xml </link>
+<thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart> 
+</dir>  
 
 </xml>
