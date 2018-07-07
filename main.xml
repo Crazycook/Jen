@@ -1,5 +1,61 @@
 <xml>
-
+  
+<dir>
+<title>TV Series</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/TV%20Series%20Top.xml</link>
+<thumbnail>https://i.imgur.com/ing4Kq5.jpg</thumbnail>
+<fanart>https://imgur.com/xI934y5</fanart>
+</dir>       
+<dir>
+<title>Live TV</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml</link>
+<thumbnail>https://i.imgur.com/fRoenF5.jpg</thumbnail>
+<fanart>https://imgur.com/xI934y5</fanart>
+</dir>    
+  
+<dir>
+<title>movies</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/Movies%20Top.xml</link>
+<thumbnail>https://i.imgur.com/fRoenF5.jpg</thumbnail>
+<fanart>https://imgur.com/xI934y5</fanart>
+</dir>  
+  
+<dir>
+<title>Music</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
+<thumbnailhttps://i.imgur.com/PfHX7ve.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>
+    
+<dir>
+<title>Radio</title>
+<thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Radio.xml</link>
+<fanart>https://imgur.com/xI934y5</fanart>
+<info>Radio stations around the world</info>
+</dir>         
+   
+<dir>
+<title>Webcams</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
+<thumbnail>https://i.imgur.com/ing4Kq5.jpg</thumbnail>
+<fanart>https://imgur.com/xI934y5</fanart>
+</dir>  
+  
+<dir>
+<title>Podcasts</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/podcast.xml</link>
+<thumbnail>https://i.imgur.com/dgcETgS.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir> 
+  
+<dir>
+<title>Documentaries</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/documentaries.xml</link>
+<thumbnail>https://i.imgur.com/bRi72xF.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>       
+  
 <dir>
 <title>youtube stuff</title>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/master/youtube.xml</link>
@@ -11,83 +67,10 @@
 </dir>  
     
 <dir>
-<title>kids boxsets tmdb</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/master/kids%20boxsets.xml<link>
-</dir> 
-  
-<dir>
-<title>Best Picture Winners - The Academy Awards</title>
-<tmdb>list/28</tmdb>
-</dir>  
-
-<dir>
-    <title>All Networks tvmaze</title>
-    <tvmaze>country/all</tvmaze>
-    <thumbnail>https://i.imgur.com/QTetVzH.jpg</thumbnail>
-    <fanart>https://imgur.com/sTGiUvr</fanart>
+<title>Pairing tool</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/Pairing%20Tool.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </dir>   
-    
-<dir>
-    <title>Pairing tool</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Pairing%20Tool.xml</link>
-    <thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
-    <fanart>https://imgur.com/sTGiUvr</fanart>
-</dir>   
-   
-<dir>
-    <title>Podcasts</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/podcast.xml</link>
-    <thumbnail>https://i.imgur.com/dgcETgS.jpg</thumbnail>
-    <fanart>https://imgur.com/sTGiUvr</fanart>
-</dir> 
-  
-<dir>
-    <title>Documentaries</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/documentaries.xml</link>
-    <thumbnail>https://i.imgur.com/bRi72xF.jpg</thumbnail>
-    <fanart>https://imgur.com/sTGiUvr</fanart>
-</dir>     
-    
-<dir>
-    <title>Music</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Music.xml</link>
-    <thumbnailhttps://i.imgur.com/PfHX7ve.jpg</thumbnail>
-    <fanart>https://imgur.com/sTGiUvr</fanart>
-</dir>
-    
-<dir>
-    <title>Radio</title>
-    <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/Radio/Radio.xml</link>
-    <fanart>https://imgur.com/xI934y5</fanart>
-    <info>Radio stations around the world</info>
-</dir>         
-   
-<dir>
-    <title>Webcams</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/master/Webcams.xml</link>
-    <thumbnail>https://i.imgur.com/ing4Kq5.jpg</thumbnail>
-    <fanart>https://imgur.com/xI934y5</fanart>
-</dir> 
-  
-<dir>
-    <title>TV Series</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/TV%20Series%20Top.xml</link>
-    <thumbnail>https://i.imgur.com/ing4Kq5.jpg</thumbnail>
-    <fanart>https://imgur.com/xI934y5</fanart>
-</dir>       
-<dir>
-    <title>Live TV</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/Live-TV/Live%20TV.xml</link>
-    <thumbnail>https://i.imgur.com/fRoenF5.jpg</thumbnail>
-    <fanart>https://imgur.com/xI934y5</fanart>
-</dir>    
-  
-<dir>
-    <title>movies</title>
-    <link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/Movies%20Top.xml</link>
-    <thumbnail>https://i.imgur.com/fRoenF5.jpg</thumbnail>
-    <fanart>https://imgur.com/xI934y5</fanart>
-</dir>      
 
 </xml>
