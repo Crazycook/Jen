@@ -82,5 +82,12 @@
     <thumbnail>https://i.imgur.com/fRoenF5.jpg</thumbnail>
     <fanart>https://imgur.com/xI934y5</fanart>
 </dir>    
+  
+<dir>
+    <title>movies</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/Movies%20Top.xml</link>
+    <thumbnail>https://i.imgur.com/fRoenF5.jpg</thumbnail>
+    <fanart>https://imgur.com/xI934y5</fanart>
+</dir>      
 
 </xml>
