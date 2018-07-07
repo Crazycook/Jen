@@ -1,10 +1,94 @@
 <xml>
 
+ <dir>
+<title>12 monkeys</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/12%20Monkeys.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>
+ 
+<dir>
+<title>2 Broke girls</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/2%20Broke%20Girls.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>     
+ 
 <dir>
 <title>ALF</title>
  <link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/ALF.xml</link>  
-<icon></icon>
-<fanart></fanart>
+<icon>https://i.imgur.com/gg6WHbu.png</icon>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </dir>
-   
+ 
+<dir>
+<title>artic Air</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Artic%20Air.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>    
+
+<dir>
+<title>Ascencion</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Ascencion.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>     
+
+<dir>
+<title>Bang Bang</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Bang%20Bang.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>    
+
+<dir>
+<title>Battlestar Galactica</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Battlestar%20Galactica.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>    
+ 
+<plugin>
+<title>Forever Knight Playlist</title>
+<link>plugin://plugin.video.youtube/channel/UChsAPBYgZ3YGRydUPgBlGOw/playlists/</link>
+<thumbnail></thumbnail>
+ <fanart>https://imgur.com/sTGiUvr</fanart>
+</plugin>
+
+<dir>
+<title>Forever Knight</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Forever%20Knight.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>      
+
+<dir>
+<title>Humans</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Humans.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>    
+
+<dir>
+<title>Letterkenny</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Letterkenny.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>       
+
+<dir>
+<title>the Littlest Hobo</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/The%20Littlest%20Hobo.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>  
+ 
+<dir>
+<title>the Walking Dead</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/The%20Walking%20Dead.xml</link>
+<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
+</dir>      
+ 
 </xml>
