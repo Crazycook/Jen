@@ -1,5 +1,10 @@
 <xml>
-
+  
+<dir>
+<title>kids boxsets tmdb</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/master/kids%20boxsets.xml<link>
+</dir>
+  
 <dir>
 <title>Best Picture Winners - The Academy Awards</title>
 <tmdb>list/28</tmdb>
