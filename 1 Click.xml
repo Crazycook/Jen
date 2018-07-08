@@ -1,12 +1,17 @@
 <xml>
 
- <dir>
+<dir>
 <title>12 monkeys</title>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/12%20Monkeys.xml</link>
 <thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </dir>
- 
+ <dir>
+<title>Crossing Test</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Crossing.xml</link>
+<thumbnail>https://i.imgur.com/hLTTk2C.png</thumbnail>
+<fanart>https://i.imgur.com/P0LUCWM.jpg</fanart>
+</dir>
 <dir>
 <title>2 Broke girls</title>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/2%20Broke%20Girls.xml</link>
