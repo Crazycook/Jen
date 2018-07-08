@@ -1,11 +1,25 @@
 <xml>
 
 <dir>
-<title>1 Click Links</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/legionworld.xml</link>
+<title>16486</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/16486Title_07082018_085454.xml</link>
 <thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart> 
-</dir>
+</dir>  
+  
+<dir>
+<title>18966</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/18966Title_07082018_093900.xml</link>
+<thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart> 
+</dir>  
+  
+<dir>
+<title>5520T</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/5520Title_07082018_035853.xml</link>
+<thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart> 
+</dir>  
   
 <dir>
 <title>Vevo links</title>
@@ -20,12 +34,5 @@
 <thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart> 
 </dir>
- 
-<dir>
-<title>test</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/test.xml </link>
-<thumbnail>https://i.imgur.com/5csSA8L.jpg</thumbnail>
-<fanart>https://imgur.com/sTGiUvr</fanart> 
-</dir>  
 
 </xml>
