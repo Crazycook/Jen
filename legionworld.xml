@@ -1,6 +1,6 @@
 <item>
 <title>[B]Online playlist:[COLOR lime]18.966[/COLOR] title[/B]</title>
-<m3u>https://raw.githubusercontent.com/Crazycook/Jen/Movies/18966Title.m3u</m3u>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/18966Title_07082018_093900.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 
@@ -8,14 +8,14 @@
 
 <item>
 <title>[B]Online playlist:[COLOR lime]16.486[/COLOR] title[/B]</title>
-<m3u>https://raw.githubusercontent.com/Crazycook/Jen/Movies/16486Title.m3u</m3u>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/16486Title_07082018_085454.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[B]Online playlist:[COLOR lime]5.520[/COLOR] title[/B]</title>
-<m3u>https://raw.githubusercontent.com/Crazycook/Jen/Movies/5520Title.m3u</m3u>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Movies/5520Title_07082018_035853.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
