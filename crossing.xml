@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+   <title>[B][I][COLOR dodgerblue]CROSSING-LINES[/COLOR][COLOR yellow]===>[/COLOR][COLOR azure]SEASON-1[/COLOR][/I][/B]</title>
+<thumbnail>http://portadas.cdn.seriesandroid.pw/crossing-lines-267970-cover-1024x576.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/37100000/Crossing-Lines-Poster-crossing-lines-37156864-1500-1061.jpg</fanart>
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR yellow]Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<thumbnail>http://portadas.cdn.seriesandroid.pw/crossing-lines-267970-cover-1024x576.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/37100000/Crossing-Lines-Poster-crossing-lines-37156864-1500-1061.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SeriesHD/crossing-lines-t1-51405</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+   <title>[B][I][COLOR dodgerblue]CROSSING-LINES[/COLOR][COLOR yellow]===>[/COLOR][COLOR azure]SEASON-2[/COLOR][/I][/B]</title>
+<thumbnail>http://portadas.cdn.seriesandroid.pw/crossing-lines-267970-cover-1024x576.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/37100000/Crossing-Lines-Poster-crossing-lines-37156864-1500-1061.jpg</fanart>
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR yellow]Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<thumbnail>http://portadas.cdn.seriesandroid.pw/crossing-lines-267970-cover-1024x576.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/37100000/Crossing-Lines-Poster-crossing-lines-37156864-1500-1061.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SeriesHD/crossing-lines-t2-51406</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+
+<item>
+   <title>[B][I][COLOR dodgerblue]CROSSING-LINES[/COLOR][COLOR yellow]===>[/COLOR][COLOR azure]SEASON-3[/COLOR][/I][/B]</title>
+<thumbnail>http://portadas.cdn.seriesandroid.pw/crossing-lines-267970-cover-1024x576.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/37100000/Crossing-Lines-Poster-crossing-lines-37156864-1500-1061.jpg</fanart>
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR yellow]Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<thumbnail>http://portadas.cdn.seriesandroid.pw/crossing-lines-267970-cover-1024x576.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/37100000/Crossing-Lines-Poster-crossing-lines-37156864-1500-1061.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SeriesHD/crossing-lines-t3-51407</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
