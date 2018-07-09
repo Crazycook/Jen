@@ -22,25 +22,5 @@
 <title>24/7 Movies</title>
 <arconaitv>movies</arconaitv>
 </dir> 
-      
-<dir>
-<title>Arconaitv 24-7 Networks 2</title>
-<arconaitv2>networks</arconaitv2>
-</dir>        
-      
-<dir>
-<title>24/7 Movies 2</title>
-<arconaitv2>movies</arconaitv2>
-</dir>
-    
-<dir>
-<title>24/7 TV Shows 2</title>
-<arconaitv2>shows</arconaitv2>
-</dir>
-   
-<dir>
-<title>24/7 Channels 2</title>
-<arconaitv2>cable</arconaitv2>
-</dir>      
 
- </xml>
+</xml>
