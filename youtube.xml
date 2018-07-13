@@ -5,12 +5,6 @@
 </plugin>
 
 <plugin>
-<title>HEAVY METAL CONCERTS</title>
-<link>plugin://plugin.video.youtube/playlist/PL9E2247E7FB170695/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
 <title>Channel Test</title>
 <link>plugin://plugin.video.youtube/channel/UCVnutG1dw2A1H0ThrJV8pdg/playlists/</link>
 <thumbnail></thumbnail>
