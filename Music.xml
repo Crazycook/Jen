@@ -19,4 +19,10 @@
     <title>Last FM</title>
     <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/last%20fm.xml</link>
 </dir>
+
+    <dir>
+    <title>One Click Musoc</title>
+    <link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/last%20fm.xml</link>
+</dir>    
+    
 </xml>
