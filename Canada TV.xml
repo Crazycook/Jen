@@ -1,6 +1,12 @@
 ﻿<item>
 
 <item>
+<title>Amazing Discoveries</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/217605/1539097700001/master_480p.m3u8</link>
+<thumbnail>https://imgur.com/Yj2LxLx</thumbnail>
+</item>    
+    
+<item>
 <title>Assemblee Nationale du Quebec (French)</title>
 <link>http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png</thumbnail>
@@ -90,6 +96,12 @@
 <thumbnail>"http://i67.tinypic.com/261m6it.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+    
+<item>
+<title>Daystar Television Canada</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/217605/1539097700001/master_480p.m3u8</link>
+<thumbnail>https://imgur.com/unw2WRR</thumbnail>
+</item>    
 
 <item>
 <title>Global BC</title>
