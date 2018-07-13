@@ -1,49 +1,18 @@
 <item>
 <item>
-<title>Bmw 100automoto.tv</title>
-<link>mms://100automoto.tv/bmw</link>
-<thumbnail>https://i.imgur.com/JGi6Z2k.png</thumbnail>
+<title>100automoto.tv</title>
+<link>http://100automoto.tv:1935/bgtv1/Stream1/chunklist_w327760108.m3u8</link>
+<thumbnail>https://i.imgur.com/U82s0Yg.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
-<item>
-<title>Electric 100automoto.tv</title>
-<link>mms://100automoto.tv/channel_electric</link>
-<thumbnail>https://i.imgur.com/Yc1rEDj.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<title>Italy 100automoto.tv</title>
-<link>mms://100automoto.tv/channel_italy</link> 
-<thumbnail>https://i.imgur.com/UwSj896.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Mercedes-Benz Channel 100automoto.tv</title>
-<link>mms://100automoto.tv/channel_mercedes</link>
-<thumbnail>https://i.imgur.com/t1hpsky.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Porsche 100automoto.tv</title>
-<link>mms://100automoto.tv/channel_porsche</link>
-<thumbnail>https://i.imgur.com/c8Ydl2Y.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-#EXTINF:0, tvg-logo="https://cbsbaltimore.files.wordpress.com/2017/02/1057_os-featuredimage_628x353.jpg?w=628" group-title="Local Sports",105.7 The Fan
-http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
 
 <item>
 <title>105.7 The Fan</title>
-<link>http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
-<item></link>
+<link>http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8</link>
 <thumbnail>https://cbsbaltimore.files.wordpress.com/2017/02/1057_os-featuredimage_628x353.jpg?w=628</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
+ 
 <item>
 <title>Abu Dhabi Sports</title>
 <link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
@@ -470,13 +439,12 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>SportBG HD</title>
-<link>http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8</link>
+<link>https://edge17.cdn.bg:20010/fls//sportal_hd/chunklist_w1808567070.m3u8</link>
 <thumbnail>https://pg-vb.cdn.viber.com/icons/35deb633452f5bde61a044c55bd8470eb5b3252c7b5512fc27863d3c6cc02ded.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item> 
- #EXTINF:-1,
 
- <item>
+<item>
 <title>Sporting Tv</title>
 <link>http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8</link>
 <thumbnail>https://i.imgur.com/WueJRuM.jpg</thumbnail>
