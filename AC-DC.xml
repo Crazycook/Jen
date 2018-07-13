@@ -7,7 +7,7 @@
 <fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
 </dir>
 
-  <dir>
+<dir>
 <title>1975 - T.N.T.</title>
 <thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1975%20-%20T.N.T.xml</link>
@@ -96,27 +96,15 @@
 <thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1988%20Blow%20Up%20Your%20Video.xml</link>
 <fanart>http://i.imgur.com/F397kOA.jpg</fanart>
-<info>Blow Up Your Video
-Album by AC/DC
-Blow Up Your Video is an album by Australian hard rock band AC/DC. It was the band's tenth internationally released studio album and the eleventh to be released in Australia.
-Release date: January 18, 1988
-Label: Atlantic Records
-Genre: Hard rock
-Producers: Harry Vanda, George Young</info>
 </dir>
+  
 <dir>
 <title>1990 The Razor's Edge</title>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1990%20-%20the%20Razor's%20Edge.xml</link>
 <fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
-<info>The Razors Edge
-Album by AC/DC
-The Razors Edge is an album by Australian hard rock band AC/DC. It was the band's eleventh internationally released studio album and the twelfth to be released in Australia.
-Release date: September 24, 1990
-Producer: Bruce Fairbairn
-Genres: Hard rock, Heavy metal
-Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
 </dir>
+  
 <dirs>
 <title>1991 - Live At Donnington</title>
 <thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
@@ -124,117 +112,82 @@ Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for Interna
 <fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
 <info>Live at Donington is the DVD recording of the AC/DC show at Donington Park on 17 August 1991, and it was the band's third Monsters of Rock festival. The two-hour show was performed before 72,500 spectators and included real cannons, the Hells Bell, an inflatable Rosie and an inflatable Angus. It was filmed in 35 mm Panavision and had 26 cameras that included one situated inside a helicopter. The DVD includes special features such as stereo and 5.1 surround sound, Iso-cam versions of certain songs for different band members, and audio commentary from Angus and Malcolm Young.</info>
 </dir>
+  
 <dir>
 <title>1992 Live</title>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1992%20-%20Live.txt</link>
 <fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
-<info>AC/DC Live is the second live album by Australian hard rock band AC/DC, released on 27 October 1992.
-The recordings on this live album are taken from several shows from AC/DC's 1991 The Razors Edge tour: Glasgow, Edmonton, Birmingham and the Donington and Moscow "Monsters of Rock" shows.</info>
 </dir>
+  
 <dir>
 <title>1992 Live Collectors Edition</title>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1998%20-%20Live.xml</link>
 <fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
-<info>AC/DC Live is the second live album by Australian hard rock band AC/DC, released on 27 October 1992.
-The recordings on this live album are taken from several shows from AC/DC's 1991 The Razors Edge tour: Glasgow, Edmonton, Birmingham and the Donington and Moscow "Monsters of Rock" shows. 2 CD's</info>
 </dir>
+  
 <dir>
 <title>1995 Ballbreaker</title>
 <thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1995%20-%20Ballbreaker.xml</link>
 <fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
-<info>Ballbreaker
-Album by AC/DC
-Ballbreaker is a 1995 album by Australian hard rock band AC/DC. It was the band's twelfth internationally released studio album and the thirteenth to be released in Australia. It was re-released in 2005 as part of the AC/DC Remasters series.
-Release date: September 26, 1995
-Label: Albert Productions
-Genres: Hard rock, Blues rock
-Producers: Rick Rubin, Mike Fraser</info>
 </dir>
+  
 <dir>
 <title>1997 Let there Be Rock, The Movie</title>
 <thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1997%20-%20Let%20Ther%20Be%20Rock%2C%20the%20Movie%20.xml</link>
 <fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
-<info>Let There Be Rock: The Movie – Live in Paris is a live double CD by the hard rock band AC/DC, released as "Disc Two" and "Disc Three" of the Bonfire box set in 1997. It is also the soundtrack of the film AC/DC: Let There Be Rock</info>
 </dir>
+  
 <dir>
 <title>1997 - Live From Atlantic studios</title>
 <thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1997%20-%20Live%20from%20Atlantic%20Studios%20.xml</link>
 <fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
-<info>Live From the Atlantic Studios
-Live album by AC/DC
-Live from the Atlantic Studios is a live album by AC/DC released on the Bonfire box set. The album was recorded live at the Atlantic Recording Studios in New York, on 7 December 1977 and all tracks were remixed by George Young. Wikipedia
-Release date: November 18, 1997
-Producer: George Young
-Label: East West Records
-Genre: Hard rock</info>
 </dir>
+  
 <dir>
 <title>1997 Volts</title>
 <thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/1997%20-%20Volts.xml</link>
 <fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
-<info>Let There Be Rock: The Movie – Live in Paris is a live double CD by the hard rock band AC/DC, released as "Disc Two" and "Disc Three" of the Bonfire box set in 1997. It is also the soundtrack of the film AC/DC: Let There Be Rock</info>
 </dir>
+  
 <dir>
 <title>2000 - Stiff Upper Lip</title>
 <thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/2000%20-%20Stiff%20Upper%20Lip.xml</link>
 <fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
-<info>Stiff Upper Lip is an album by Australian hard rock band AC/DC. It was the band's thirteenth internationally released studio album and the fourteenth to be released in Australia. The album was co-produced by George Young, older brother of Malcolm and Angus Young</info>
 </dir>
+
 <dir>
 <title>2005 - Family Jewels</title>
 <thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/2005%20-%20Family%20Jewels.txt</link>
 <fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
-<info>Family Jewels
-Family Jewels is a compilation DVD by the hard rock band AC/DC, featuring the group's music videos, live clips and promotional videos from 1975 to 1991. It was released by Albert Productions and Epic Music Video on 28 March 2005. 
-Initial release: March 28, 2005
-Directors: George Young, David Mallet, Eric Dionysius, Eric Mistler, more
-Initial DVD release: March 29, 2005 (Australia)</info>
 </dir>
+  
 <dir>
 <title>2008 - Black Ice</title>
 <thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/2005%20-%20Family%20Jewels.xml</link>
 <fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
-<info>Black Ice
-Album by AC/DC
-Black Ice is an album by Australian hard rock band AC/DC. It was the band's fourteenth internationally released studio album and the fifteenth in Australia. Released internationally on 17 October 2008, it was produced by Brendan O'Brien. 
-Release date: October 17, 2008
-Producer: Brendan O'Brien
-Genres: Hard rock, Heavy metal</info>
 </dir>
+  
 <dir>
 <title>2010 - Iron Man 2</title>
 <thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/2010%20-%20Iron%20Man%202.xml</link>
 <fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
-<info>Iron Man 2
-Soundtrack album by AC/DC
-Iron Man 2 is a soundtrack album by Australian hard rock band AC/DC, released on April 19, 2010 as the soundtrack to the film of the same title.
-Artist: AC/DC
-Release date: April 19, 2010
-Movie: Iron Man 2
-Label: Columbia Records
-Genres: Hard rock, Rock and roll, Blues rock</info>
 </dir>
+  
 <dir>
 <title>2014 - Rock or Bust</title>
 <thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/2014%20-%20Rock%20or%20Bust.xml</link>
 <fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
-<info>Rock or Bust
-Studio album by AC/DC
-Rock or Bust is a studio album by Australian hard rock band AC/DC. It is their fifteenth internationally released studio album and the sixteenth to be released in Australia.
-Artist: AC/DC
-Release date: November 28, 2014
-Producer: Brendan O'Brien
-Label: Columbia Records</info>
 </dir>
+  
 </xml>
