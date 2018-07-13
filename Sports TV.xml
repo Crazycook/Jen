@@ -386,12 +386,46 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<title>Stadium</title>
+<link>https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/d3c24244-3b36-4f23-8af1-6852ee2271e9/0.m3u8</link>
+<thumbnail>https://imgur.com/MPgwN7d</thumbnail>
+</item>
 <item>
-<title>Poker Central</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
-<thumbnail>tvg-logo="</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<title>ACC Digital Network</title>
+<link>https://content-origin.watchstadium.com/140343/52f567614a900ad127dc800b26318803/bw_264kb.m3u8</link>
+<thumbnail>https://imgur.com/6hl4e2j</thumbnail>
+</item>
 
+<item>
+<title>Big 12 Digital Network</title>
+<link>https://content-origin.watchstadium.com/137980/030c7503b5cff44a0607357563bbca49/bw_264kb.m3u8</link>
+<thumbnail>https://imgur.com/nMv9M5S</thumbnail>
+</item>
+ 
+<item>
+<title>Conference USA Network</title>
+<link>https://content-origin.watchstadium.com/140175/c8f29d25be8ceb5966d71d41bfdb45ed/bw_264kb.m3u8</link>
+<thumbnail>https://imgur.com/1tMpuWv</thumbnail>
+</item>
+ 
+<item>
+<title>Mountain West Network</title>
+<link>https://content-origin.watchstadium.com/140220/8889ba407b3d1b3443419b0769864651/bw_264kb.m3u8</link>
+<thumbnail>https://imgur.com/u6SLYsZ</thumbnail>
+</item>
+ 
+<item>
+<title>Patriot League Network</title>
+<link>https://content-origin.watchstadium.com/139971/9fd96467c4e09746a157934c90dd8649/bw_264kb.m3u8</link>
+<thumbnail>https://imgur.com/VKSoSHr</thumbnail>
+</item>
+ 
+<item>
+<title>TheW.TV</title>
+<link>https://content-origin.watchstadium.com/137620/9c817b991adf239f8164bfd384574a6a/bw_264kb.m3u8</link>
+<thumbnail>https://imgur.com/HHr2X7N</thumbnail>
+</item>
+ 
 <item>
 <title>Real Madrid TV</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
@@ -420,6 +454,12 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <thumbnail>https://i.imgur.com/OE4jjum.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+ 
+<item>
+<title>Ringside Network</title>
+<link>https://58748bacc0282.streamlock.net/ringside/ringside/chunklist_w1179873630.m3u8</link>
+<thumbnail>https://imgur.com/PdKt7w1</thumbnail>
+</item> 
  
 <item>
 <title>Sevilla FC TV</title>
