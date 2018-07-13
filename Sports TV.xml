@@ -114,7 +114,14 @@
 <item>
 <title>Arriadia Maroc</title>
 <link>http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia</link>
-<thumbnail></thumbnail>
+<thumbnail>https://imgur.com/m18VEC6</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+ 
+<item>
+<title>Arriadia Maroc</title>
+<link>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8</link>
+<thumbnail>https://imgur.com/m18VEC6</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -127,21 +134,14 @@
  
 <item>
 <title>BETIS TV</title>
-<link>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
+<link>http://cdnlive.shooowit.net/rbetislive/smil:live.smil/chunklist_b1500000.m3u8?t=1531472822698</link>
 <thumbnail>http://i.imgur.com/VyplynV.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item> 
-
-<item>
-<title>BT Sport ESPN</title>
-<link>http://185.142.239.164:3135/BT/Espn/index.m3u8</link>
-<thumbnail>https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
+ 
 <item>
 <title>BFM Sports</title>
-bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8</link>
+<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8</link>
 <thumbnail>https://i.imgur.com/M16YAmx.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -184,7 +184,7 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
  
 <item>
 <title>DeporTV</title>
-<link>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8 </link>
+<link>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8</link>
 <thumbnail>https://i.imgur.com/1BasNMa.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item> 
@@ -193,13 +193,6 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <title>Esporte Interativo - Portuguese</title>
 <link>http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8?</link>
 <thumbnail>https://i.imgur.com/TvWHTQo.png/thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>ESPN USA</title>
-<link>http://stream.i4atv.info/ggwpl/live2.m3u8</link>
-<thumbnail>https://i.imgur.com/7RlXZ8C.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -217,36 +210,23 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 </item>
  
 <item>
-<title>Kuait Sports Channel</title>
-<link>https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_b1600000.m3u8?nimblesessionid=108913</link>
+<title>KTV Sport</title>
+<link>https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist_b2400000.m3u8?nimblesessionid=217343</link>
 <thumbnail>https://i.imgur.com/ATzIAFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
+ 
 <item>
-<title>Kuwait 3 Sport</title>
-<link>http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8</link>
+<title>KTV Sport Extra</title>
+<link>https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/chunklist_b2400000.m3u8?nimblesessionid=217381</link>
 <thumbnail>https://i.imgur.com/ATzIAFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-
+</item> 
+ 
 <item>
 <title>MOTORSPORT USA</title>
-<link>http://motorsport.hopto.org:8080/</link>
+<link>https://motorsporttv.pc.cdn.bitgravity.com/live/ExtContent/motortmppush/MotoHLS/motortmppush-audio_20000=121600-video=200000.m3u8/</link>
 <thumbnail>https://i.imgur.com/2Sy9aLY.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>MOTORSPORT USA</title>
-<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8/</link>
-<thumbnail>http://channelpear.com/images/media/5249.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>NBC Golf</title>
-<link>http://185.142.239.164:3135/NBC/Golf/index.m3u8?token=MzhiMzJhMTM2OTI5NTc2Yzc0ZTA1NjIzMzI2ZWRlYzA6MTQ5MzgzNjExNA==</link>
-<thumbnail>8H31K.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
