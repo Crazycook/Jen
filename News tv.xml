@@ -109,7 +109,6 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-
 <item>
 <title>Arise News</title>
 <link>http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8</link>
@@ -118,12 +117,15 @@
 </item>
 
 <item>
-<title>BBC World News</title>
-<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<title>BBC WORLD NEWS</title>
+<link>http://jabber.divan.tv:8008/tv.m3u8</link>
 <thumbnail>http://channelpear.com/images/media/3130.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
+<item>
+<title>BBC WORLD NEWS</title>
+<link>http://jabber.divan.tv:8009/tv.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/3130.png</thumbnail>
+</item>
 
 <item>
 <title>Channel NewsAsia</title>
@@ -131,8 +133,6 @@
 <thumbnail>http://singapore.mfa.gov.ua/mediafiles/sites/singapore/images/articles/tmbs/CNA_logo-tmb-270x180.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
-
 
 <item>
 <title>MSNBC</title>
@@ -879,7 +879,7 @@
 </item>
  
 <item>
-<title>Russia Today</title>
+<title>Russia Today Eng</title>
 <link>http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8</link>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -898,6 +898,12 @@
 <thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
+ 
+<item>
+<title>RT News HD</title>
+<link>http://secure-streams.akamaized.net/rt/index1600.m3u8</link>
+<thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
+</item> 
 
 <item>
 <title>RT UK</title>
@@ -908,7 +914,7 @@
 
 <item>
 <title>RT Documentary</title>
-<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+<link>https://secure-streams.akamaized.net/rt-doc/index1600.m3u8</link>
 <thumbnail>https://i.imgur.com/NuqR2K6.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item> 
