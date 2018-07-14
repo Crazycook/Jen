@@ -1,9 +1,9 @@
-﻿
+<xml>
 
 <dir>
 <title>Kill Em All</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Kill%20Em%20All.xml</link>
 <fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
 <info>Kill 'Em All
 Studio album by Metallica
@@ -17,7 +17,7 @@ Genres: Thrash metal, Speed metal</info>
 <dir>
 <title>Ride the Lightning</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Ride%20the%20Lightning.xml</link>
 <fanart>https://s3.amazonaws.com/bit-photos/large/264274.jpeg</fanart>
 <info>Ride the Lightning
 Studio album by Metallica
@@ -32,7 +32,7 @@ Genres: Thrash metal, Speed metal</info>
 <dir>
 <title>Master of Puppets</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Master%20of%20Puppets.xml</link>
 <fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
 <info>Master of Puppets
 Studio album by Metallica
@@ -47,7 +47,7 @@ Genre: Thrash metal</info>
 <dir>
 <title>And Justice For All</title>
 <thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/And%20Justice%20For%20All.xml</link>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>...And Justice for All
 Studio album by Metallica
@@ -61,7 +61,7 @@ Genres: Heavy metal, Thrash metal, Progressive metal</info>
 <dir>
 <title>Black Album</title>
 <thumbnail>https://c2.staticflickr.com/8/7251/7590353426_7b620e7ddf_b.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Black%20Album.xml</link>
 <fanart>https://i.ytimg.com/vi/DqDeH3hwxfw/maxresdefault.jpg</fanart>
 <info>Metallica
 Studio album by Metallica
@@ -76,7 +76,7 @@ Awards: Grammy Award for Best Metal Performance, Billboard Music Award for Catal
 <dir>
 <title>Live Shit: Binge & Purge</title>
 <thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Live%20Shit%20Binge%20%26%20Purge.xml</link>
 <fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
 <info>Live Shit: Binge & Purge
 Live album by Metallica
@@ -91,14 +91,14 @@ Producers: James Hetfield, Lars Ulrich</info>
 <dir>
 <title>Until The Studioshit Load</title>
 <thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Until%20The%20StudioShit%20Load.xml</link>
 <fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
 </dir>
 
 <dir>
 <title>Load</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Load.xml</link>
 <fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
 <info>Load
 Studio album by Metallica
@@ -113,7 +113,7 @@ Producers: James Hetfield, Bob Rock, Lars Ulrich</info>
 <dir>
 <title>Reload</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Metallica_-_Reload_cover.jpg/220px-Metallica_-_Reload_cover.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Reload.xml</link>
 <fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
 <info>Reload
 Studio album by Metallica
@@ -128,7 +128,7 @@ Producers: James Hetfield, Bob Rock, Lars Ulrich</info>
 <dir>
 <title>Garage Inc.</title>
 <thumbnail>http://i.imgur.com/yW1mYQp.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Garage%20INC..xml</link>
 <fanart>http://i.imgur.com/pKNn3ra.jpg</fanart>
 <info>Garage Inc.
 Compilation album by Metallica
@@ -142,7 +142,7 @@ Producers: James Hetfield, Bob Rock, Lars Ulrich, Mark Whitake</info>
 <dir>
 <title>S&M</title>
 <thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/S%26M.xml</link>
 <fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
 <info>S&M
 Live album by Metallica
@@ -157,14 +157,14 @@ Genres: Heavy metal, Thrash metal, Hard rock, Symphonic metal</info>
 <dir>
 <title>the Golden Unplugged Album</title>
 <thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/The%20Golden%20Unplugged.xml</link>
 <fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
 </dir>
 
 <dir>
 <title>St.Anger</title>
 <thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/St.%20Anger.xml</link>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>St. Anger
 Studio album by Metallica
@@ -178,7 +178,7 @@ Genres: Heavy metal, Thrash metal, Nu metal, Crossover thrash</info>
 <dir>
 <title>Death Magnetic</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Metallica_-_Death_Magnetic_cover.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Death%20Magnetic.xml</link>
 <fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
 <info>Death Magnetic
 Studio album by Metallica
@@ -192,8 +192,8 @@ Genres: Heavy metal, Thrash metal</info>
 <dir>
 <title>Hardwired...To Self-Destruct</title>
 <thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Metallica/Hardwired...To%20Self-Destruct.xml</link>
 <fanart>http://i.imgur.com/9QRc8M7.png</fanart>
-<info>DiRTYBURGER Streams</info>
 </dir>
-</dirs>
+
+<xml>  
