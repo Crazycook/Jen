@@ -60,11 +60,6 @@
 <title>youtube stuff</title>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/master/youtube.xml</link>
 </dir>   
-  
-<dir>
-<title>world cup acestream</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/master/Acestream.xml</link>
-</dir>  
     
 <dir>
 <title>Pairing tool</title>
@@ -73,11 +68,4 @@
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </dir>
   
-<item>
-<title>Tubtub</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/master/Tubtub.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>  
-
 </xml>
