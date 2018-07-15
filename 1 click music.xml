@@ -56,6 +56,14 @@ https://raw.githubusercontent.com/Crazycook/Jen/billboard/58%20ffs.xml
 <link>https://raw.githubusercontent.com/Crazycook/Jen/Guns-N-Roses/Guns%20N%20Roses.xml</link>
 <thumbnail>https://imgur.com/YrI62nM</thumbnail>
 <fanart>https://imgur.com/YASqNkf</fanart>
-</dir> 
+</dir>
+  
+<dir>
+<title>Billboard</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/billboard/billboard.xml </link>
+<thumbnail>https://imgur.com/7PUEUQn</thumbnail>
+<fanart>https://imgur.com/mICI9rj</fanart>
+</dir>  
+  
 
 </xml>
