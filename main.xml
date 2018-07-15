@@ -74,8 +74,8 @@
 </dir>
   
 <item>
-<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?item=title%3dCinestrenosTV.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</link>
+<title>Tubtub</title>
+<link>https://github.com/Crazycook/Jen/blob/master/Tubtub.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>  
