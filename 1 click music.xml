@@ -14,13 +14,6 @@
 <thumbnail>https://imgur.com/58kJF6U</thumbnail>
 <fanart>https://imgur.com/DijNBHB</fanart>
 </dir> 
-  
-<dir>
-<title>Billboard Top 100 1956 1969</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/billboard/billboard5669.xml</link>
-<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
-</dir>  
  
 <dir>
 <title>Metallica</title>
@@ -28,13 +21,6 @@
 <thumbnail>https://imgur.com/qRE3GeK</thumbnail>
 <fanart>https://imgur.com/5I8erQ6</fanart>
 </dir>
-  
-<dir>
-<title>Billboard</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/Music.xml/Billboard.xml</link>
-<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
-</dir>    
   
 <dir>
 <title>Slayer</title>
