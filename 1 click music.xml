@@ -6,6 +6,13 @@
 <link>https://raw.githubusercontent.com/Crazycook/Jen/AC-DC/AC%20DC.xml</link>
 <thumbnail>https://imgur.com/58kJF6U</thumbnail>
 <fanart>https://imgur.com/DijNBHB</fanart>
+</dir> 
+  
+<dir>
+<titleBillboard Top 100 1959 1987</title>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/Billboard-top-100-1959-1987/Billboard%20top%20100%201959%201987.xml </link>
+<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
 </dir>  
  
 <dir>
@@ -29,11 +36,4 @@
 <fanart>https://imgur.com/YASqNkf</fanart>
 </dir> 
 
-<dir>
-<titleBillboard Top 100 1959 1987</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/Billboard-top-100-1959-1987/Billboard%20top%20100%201959%201987.xml </link>
-<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
-</dir>
-  
 </xml>
