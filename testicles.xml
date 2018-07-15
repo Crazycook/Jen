@@ -1,13 +1,6 @@
 <xml>
 
 <dir>
-<Title>56</Title>
-<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/billboard/billboard56.xml</link>
-<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
-</dir>
-
-<dir>
 <Title>57</Title>
 <thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/billboard/57.xml</link>
@@ -21,8 +14,6 @@
 <fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
 </dir>
   
-</xml>  
-
 <item>
 <title>1961-01</title>
 <link>http://eatandsleep.net/billboard/1961/1961-01.mp3</link>
@@ -48,6 +39,14 @@
 <thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
 <fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
 </item>
+  
+<dir>
+<Title>56</Title>
+<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
+<link>https://raw.githubusercontent.com/Crazycook/Jen/billboard/billboard56.xml</link>
+<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
+</dir>
+  
 <item>
 <title>02. Blood Red</title>
 <link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/02.%20Blood%20Red.mp3</link>
@@ -115,3 +114,5 @@ http://213.32.113.82/music/Metallica%20-%20Hardwired%E2%80%A6To%20Self-Destruct%
 <thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
 <fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
 </item>
+  
+</xml>  
