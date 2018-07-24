@@ -6,14 +6,9 @@
 <thumbnail>https://image.tmdb.org/t/p/w1280/3BahwW8SjqcsHS0t078aGBDAEvh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
 </dir>
- <dir>
-<title>Crossing Test</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Crossing.xml</link>
-<thumbnail>https://i.imgur.com/hLTTk2C.png</thumbnail>
-<fanart>https://i.imgur.com/P0LUCWM.jpg</fanart>
-</dir>
+ 
 <dir>
-<title>2 Broke girls</title>
+<title>2 Broke Girls</title>
 <link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/2%20Broke%20Girls.xml</link>
 <thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
@@ -31,14 +26,20 @@
 <link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Artic%20Air.xml</link>
 <thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
-</dir>    
-
+</dir>
+ 
 <dir>
-<title>Ascencion</title>
-<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Ascencion.xml</link>
-<thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
-<fanart>https://imgur.com/sTGiUvr</fanart>
-</dir>     
+	<title>[COLOR=white]Ascension[/COLOR]</title>
+	<meta>
+	<imdb>tt0436572</imdb>
+	<content>tv</content>
+	<title>Ascension</title>
+	<year>2014</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/Ascencion.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qI7Ut2vlwi0oT5vwmIcE9siQzxx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mH7ZoCMDwE9eidcocfol1nOH8ij.jpg</fanart>
+</dir> 
 
 <dir>
 <title>Bang Bang</title>
@@ -94,6 +95,19 @@
 <link>https://raw.githubusercontent.com/Crazycook/Jen/TV-Series/The%20Walking%20Dead.xml</link>
 <thumbnail>https://i.imgur.com/5AfOEaC.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
-</dir>      
+</dir>
+ 
+dir>
+	<title>[COLOR=white]Vikings[/COLOR]</title>
+	<meta>
+	<imdb>tt0370969</imdb>
+	<content>tv</content>
+	<title>Vikings</title>
+	<year>2013</year>
+	</meta>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/A30ZqEoDbchvE7mCZcSp6TEwB1Q.jpg</fanart>
+</dir> 
  
 </xml>
