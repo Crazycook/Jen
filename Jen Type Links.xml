@@ -1,4 +1,265 @@
 <xml>
+
+<dir>
+            <title>50 Latest Releases</title>
+            <wctoon>topfifty/last-50-recent-release</wctoon>
+        </dir>
+
+        <dir>
+            <title>Today's Picks</title>
+            <wctoon>main/today</wctoon>
+        </dir>
+
+        <dir>
+            <title>Most Popular</title>
+            <wctoon>main/popular</wctoon>
+        </dir>
+
+        <dir>
+            <title>Dubbed Anime</title>
+            <wctoon>category/dubbed-anime-list</wctoon>
+        </dir>
+
+        <dir>
+            <title>Subbed Anime</title>
+            <wctoon>category/subbed-anime-list</wctoon>
+        </dir>
+
+        <dir>
+            <title>Cartoons</title>
+            <wctoon>category/cartoon-list</wctoon>
+        </dir>
+
+        <dir>
+            <title>Movies</title>
+            <wctoon>category/movie-list</wctoon>
+        </dir>
+
+        <dir>
+            <title>Ova Series</title>
+            <wctoon>category/ova-list</wctoon>
+        </dir>
+
+        <dir>
+            <title>Search Site</title>
+            <wctoon>wcsearch</wctoon>
+        </dir>
+
+        <dir>
+            <title>Everything 101 Dalmatians</title>
+            <wctoon>wcsearch/101 dalmatians</wctoon>
+        </dir>
+
+        <dir>
+            <title>Action Genre</title>
+            <wctoon>wcgenre/14</wctoon>
+        </dir>  
+  
+<dir>
+            <title>New Movies</title>
+            <toonmania>category/GetNewMovies</toonmania>
+        </dir>
+
+        <dir>
+            <title>All Movies</title>
+            <toonmania>category/GetAllMovies</toonmania>
+        </dir>
+
+        <dir>
+            <title>Popular Movies</title>
+            <toonmania>category/GetPopularMovies</toonmania>
+        </dir>
+
+        <dir>
+            <title>New Cartoons</title>
+            <toonmania>category/GetNewCartoon</toonmania>
+        </dir>
+
+        <dir>
+            <title>All Cartoons</title>
+            <toonmania>category/GetAllCartoon</toonmania>
+        </dir>
+
+        <dir>
+            <title>Popular Cartoons</title>
+            <toonmania>category/GetPopularCartoon</toonmania>
+        </dir>
+
+        <dir>
+            <title>New Dubbed Anime</title>
+            <toonmania>category/GetNewDubbed</toonmania>
+        </dir>
+
+        <dir>
+            <title>All Dubbed Anime</title>
+            <toonmania>category/GetAllDubbed</toonmania>
+        </dir>
+
+        <dir>
+            <title>Popular Dubbed Anime</title>
+            <toonmania>category/GetPopularDubbed</toonmania>
+        </dir>  
+
+<dir>
+<title> Moviefone Trailers</title>
+<moviefone>trailers/1</moviefone>
+</dir>
+  
+<dir>
+    <title>The Duke Movie List</title>
+    <duke>all</duke>
+	<thumbnail>https://pbs.twimg.com/profile_images/1004442158248554497/k4iRjaEN_400x400.jpg</thumbnail>
+	<fanart>http://www.fullhdwpp.com/wp-content/uploads/John-Wayne-quote_www.fullhdwpp.com_.jpg</fanart>
+</dir> 
+  
+<dir>
+            <title>Movies</title>
+            <mtorture>category/movies/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Documentaries</title>
+            <mtorture>category/docus/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>1950s</title>
+            <mtorture>tag/36/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>1960s</title>
+            <mtorture>tag/33/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>1970s</title>
+            <mtorture>tag/17/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>1980s</title>
+            <mtorture>tag/18/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>1990s</title>
+            <mtorture>tag/22/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>2000s</title>
+            <mtorture>tag/26/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>2010s</title>
+            <mtorture>tag/23/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Action</title>
+            <mtorture>tag/19/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Adventure</title>
+            <mtorture>tag/15/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>B-Movie Queen</title>
+            <mtorture>tag/29/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Best of the Worst</title>
+            <mtorture>tag/28/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Comedy</title>
+            <mtorture>tag/13/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Comics</title>
+            <mtorture>tag/32/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Crime</title>
+            <mtorture>tag/40/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Drama</title>
+            <mtorture>tag/37/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Exploitation</title>
+            <mtorture>tag/25/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Fantasy</title>
+            <mtorture>tag/16/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Horror</title>
+            <mtorture>tag/12/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Martial Arts</title>
+            <mtorture>tag/20/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Music</title>
+            <mtorture>tag/42/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Revenge</title>
+            <mtorture>tag/39/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Science Fiction</title>
+            <mtorture>tag/14/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Snake!</title>
+            <mtorture>tag/43/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Sting!</title>
+            <mtorture>tag/44/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>Vanity</title>
+            <mtorture>tag/35/1</mtorture>
+        </dir>
+
+        <dir>
+            <title>WTF?!</title>
+            <mtorture>tag/34/1</mtorture>
+        </dir>  
+
+<dir>
+<title>Search Moviefone Trailers</title>
+<moviefone>search</moviefone>
+</dir>
+<dir>
+<title>BNW Movies</title>
+<bnw>movies</bnw>
+</dir>  
   
 <dir>
 <title>kids boxsets tmdb</title>
