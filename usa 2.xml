@@ -178,10 +178,9 @@
 
 <item>
 <title>EBCTV Community - 9CTV - East Bridgewater - MA Massachusetts</title>
-<link>rtmp://cp45648.live.edgefcs.net/live/T01812@50342</link>
+<link>https://t06132-lh.akamaihd.net/i/t06132_1_1@515776/index_1_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on</link>
 <thumbnail>http://i.imgur.com/rJ3txeg.png</thumbnail>
 <fanart>https://imgur.com/sTGiUvrg</fanart>
-<info>https://eb-cam.org/</info>
 </item>
 
 <item>
@@ -202,7 +201,7 @@
 <title>Grassroots Community Network</title>
 <link>http://reflect.live.grassroots.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8</link>
 <thumbnail>http://i1.wp.com/aspenroaringforkwellness.com/wp-content/uploads/2016/06/grassroots.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 <info>link not working. http://www.grassrootstv.org</info>
 </item>
  
@@ -333,18 +332,16 @@
 
 <item>
 <title>St. Petersburg TV</title>
-<link>http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8</link>
-<thumbnail>http://www.stpete.org/logo/images/city_logo_color.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>not working http://www.stpete.org/connect/stpetetv/index.php</info>
+<link>http://granicusliveus1-a.akamaihd.net/stpete/G0187_002/chunklist.m3u88</link>
+<thumbnail>https://imgur.com/6DYxzuK</thumbnail>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
 <title>SafeTV</title>
 <link>http://live.ipointcable.com/safetv/myStream.sdp/playlist.m3u8</link>
 <thumbnail>https://image.roku.com/channels/images/742438d2db584d6b93a617eacf0ad1f8-hd.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>not working http://www.safetv.org/</info>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
 <item>
@@ -414,7 +411,7 @@
 <title>Teveo Miami Spanish</title>
 <link>http://q.gs/9830047/tveomiamitodokodim3u8</link>
 <thumbnail>http://i.imgur.com/1Tlnec7.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
  <info> not working</info>
 </item>
 
@@ -485,6 +482,6 @@
 <title>HD Media 3D</title>
 <link>http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/TQhwVnq.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
 
