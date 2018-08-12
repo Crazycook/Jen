@@ -154,7 +154,6 @@
 <thumbnail>https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif</thumbnail>
 <fanart>https://imgur.com/sTGiUvr</fanart>
 </item>
-#EXTINF:-1,
 
  <item>
 <title>District Knowledge Network</title>
@@ -204,7 +203,8 @@
 <link>http://reflect.live.grassroots.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8</link>
 <thumbnail>http://i1.wp.com/aspenroaringforkwellness.com/wp-content/uploads/2016/06/grassroots.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
- <info>link not working. http://www.grassrootstv.org</info>
+<info>link not working. http://www.grassrootstv.org</info>
+</item>
  
 <item>
 <title>House of Representatives</title>
